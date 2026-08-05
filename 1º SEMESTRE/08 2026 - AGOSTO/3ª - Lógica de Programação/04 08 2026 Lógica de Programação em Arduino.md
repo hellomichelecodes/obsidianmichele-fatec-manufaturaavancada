@@ -1,5 +1,5 @@
 Professor: Jorge Sarapka
-Sala: Laboratório 15
+Sala: Auditório
 Semestre: 1º 
 tags: #LogicaDeProgramaçãoEmArduino #PrimeiroSemestre #Agosto2026
 
