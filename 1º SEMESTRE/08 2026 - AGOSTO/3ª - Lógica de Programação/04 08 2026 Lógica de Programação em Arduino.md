@@ -5,7 +5,7 @@ tags: #LogicaDeProgramaçãoEmArduino #PrimeiroSemestre #Agosto2026
 
 ---
 
-Anotações da Aula:
+Anotações da Aula: Palestra com Moni
 
 Conceitos Importantes:
 
