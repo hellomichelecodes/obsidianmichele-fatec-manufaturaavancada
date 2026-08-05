@@ -21,7 +21,6 @@ Principais Projetos
 - Avião Tucano no período da carreira dela na Embraer, onde atuou em engenharia aeronáutica e aerodinâmica com foco especial no desenvolvimento e otimização de aeronaves como o lendário Tucano (EMB-312) e Super Tucano (A-29);
 - Suturas com a linha principal da MZF4, que é referência no mercado médico-hospitalar na fabricação de monofilamentos sintéticos de náilon.
 
-
 Links para acompanhar o trabalho de Monica e empresas em que ela atuou:
 - Na [página oficial da MZF4](https://mzf4monofilaments.com/pt-br/) e na sessão [MZF4 Medical - Our Team](https://mzf4medical.com/our-team/), ela consta oficialmente na liderança;
 -  [Blog e Notícias da MZF4 (Tag Mônica Vilah)](https://mzf4household.com/pt-br/tag/monica-vilah/), 
