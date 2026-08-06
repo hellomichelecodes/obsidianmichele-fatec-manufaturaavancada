@@ -38,6 +38,7 @@ Indicações do Professor:
 
 Conteúdos Extras/ Pesquisa:
 - Canal oficial do professor: https://www.youtube.com/@fisicabasica-prof.wellingt8751
+- Outros livros de Francisco 
 ---
 
 Resumo: A aula abordou os conceitos fundamentais dos conjuntos numéricos, estruturando-os a partir dos números naturais ($\mathbb{N}$) para contagem, avançando para os inteiros ($\mathbb{Z}$) com a inclusão dos negativos, e chegando aos racionais ($\mathbb{Q}$), que expressam frações e decimais periódicos. Por fim, foram apresentados os irracionais ($\mathbb{I}$), formados por decimais infinitos não periódicos como o $\pi$, e os reais ($\mathbb{R}$), conjunto que unifica todos os anteriores para preencher continuamente a reta numérica.
