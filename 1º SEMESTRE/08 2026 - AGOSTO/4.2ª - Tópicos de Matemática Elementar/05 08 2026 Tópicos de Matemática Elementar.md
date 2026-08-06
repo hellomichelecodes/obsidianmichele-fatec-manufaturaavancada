@@ -34,10 +34,10 @@ A união do conjunto dos números Racionais com os Irracionais ($\mathbb{R} = \m
 Conceitos Importantes:
 
 Indicações do Professor:
-
+- LIVRO: Pré-calculo, por FRANCISCO MAGALHÃES GOMES ( Amazon: https://www.amazon.com.br/Pr%C3%A9-C%C3%A1lculo-Opera%C3%A7%C3%B5es-Equa%C3%A7%C3%B5es-Fun%C3%A7%C3%B5es-Sequ%C3%AAncias/dp/8522127891)
 
 Conteúdos Extras/ Pesquisa:
 - Canal oficial do professor: https://www.youtube.com/@fisicabasica-prof.wellingt8751
 ---
 
-Resumo:
+Resumo: A aula abordou os conceitos fundamentais dos conjuntos numéricos, estruturando-os a partir dos números naturais ($\mathbb{N}$) para contagem, avançando para os inteiros ($\mathbb{Z}$) com a inclusão dos negativos, e chegando aos racionais ($\mathbb{Q}$), que expressam frações e decimais periódicos. Por fim, foram apresentados os irracionais ($\mathbb{I}$), formados por decimais infinitos não periódicos como o $\pi$, e os reais ($\mathbb{R}$), conjunto que unifica todos os anteriores para preencher continuamente a reta numérica.
