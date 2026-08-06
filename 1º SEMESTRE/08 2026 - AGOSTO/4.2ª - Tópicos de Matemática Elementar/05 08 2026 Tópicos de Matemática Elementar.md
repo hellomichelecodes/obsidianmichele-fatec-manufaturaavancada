@@ -5,14 +5,39 @@ tags: #TopicosDeMatematicaElementar #PrimeiroSemestre #Agosto2026
 
 ---
 
-Anotações da Aula:
+Anotações da Aula: 
+**Números Naturais ($\mathbb{N}$)**
+Utilizados para contagem e ordenação de elementos discretos.
+- **Elementos:** $\{0, 1, 2, 3, 4, 5, \dots\}$
+- **Propriedade:** Contém apenas números inteiros e não negativos.
+
+**Números Inteiros ($\mathbb{Z}$)**
+Surgem da necessidade de representar saldos negativos, temperaturas abaixo de zero ou dívidas.
+- **Elementos:** $\{\dots, -3, -2, -1, 0, 1, 2, 3, \dots\}$
+- **Propriedade:** Inclui todos os números naturais mais os seus opostos negativos.
+
+**Números Racionais ($\mathbb{Q}$)**
+Representam partes de um todo e razões entre dois números inteiros.
+- **Formato:** Qualquer número que possa ser escrito na forma $\frac{a}{b}$, com $a, b \in \mathbb{Z}$ e $b \neq 0$.
+- **Exemplos:** $\frac{1}{2}$, $-\frac{3}{4}$, $0{,}75$, e dízimas periódicas como $0{,}333\dots$
+
+**Números Irracionais ($\mathbb{I}$)**
+Decimais infinitos e não periódicos que não podem ser expressos como fração de dois inteiros.
+- **Exemplos:** $\pi \approx 3{,}14159$, $\sqrt{2} \approx 1{,}4142$, $e \approx 2{,}7182$
+- **Propriedade:** Preenchem as "lacunas" da reta numérica entre os números racionais.
+
+**Números Reais ($\mathbb{R}$)**
+A união do conjunto dos números Racionais com os Irracionais ($\mathbb{R} = \mathbb{Q} \cup \mathbb{I}$).
+- **Representação:** Correspondem a todos os pontos de uma reta contínua (a reta real).
+- **Abrangência:** Contém todos os conjuntos anteriores ($\mathbb{N} \subset \mathbb{Z} \subset \mathbb{Q} \subset \mathbb{R}$).
 
 Conceitos Importantes:
 
 Indicações do Professor:
 
-Conteúdos Extras/ Pesquisa:
 
+Conteúdos Extras/ Pesquisa:
+- Canal oficial do professor: https://www.youtube.com/@fisicabasica-prof.wellingt8751
 ---
 
 Resumo:
