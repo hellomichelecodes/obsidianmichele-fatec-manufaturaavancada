@@ -11,10 +11,14 @@
             "id": "a2187831473b80f3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "1º SEMESTRE/08 2026 - AGOSTO/5.2ª - Inglês I/06 08 2026 Inglês I.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nova aba"
+              "title": "06 08 2026 Inglês I"
             }
           }
         ]
@@ -186,7 +190,7 @@
       "webpage-html-export:Export as HTML": false
     }
   },
-  "active": "a2187831473b80f3",
+  "active": "e39d38e6d7e40dbd",
   "lastOpenFiles": [
     "1º SEMESTRE/08 2026 - AGOSTO/4.2ª - Tópicos de Matemática Elementar/05 08 2026 Tópicos de Matemática Elementar.md",
     "1º SEMESTRE/08 2026 - AGOSTO/4.1ª - Tecnologia Mecânica/05 08 2026 Técnologia Mecânica.md",
