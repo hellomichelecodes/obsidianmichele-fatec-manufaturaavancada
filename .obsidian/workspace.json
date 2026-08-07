@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "b85794fb3bba9790",
+        "id": "a662855bbb1d7f0f",
         "type": "tabs",
         "children": [
           {
-            "id": "807fdce7ad66974d",
+            "id": "a2187831473b80f3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1º SEMESTRE/08 2026 - AGOSTO/4.2ª - Tópicos de Matemática Elementar/05 08 2026 Tópicos de Matemática Elementar.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "05 08 2026 Tópicos de Matemática Elementar"
+              "title": "Nova aba"
             }
           }
         ]
@@ -190,10 +186,10 @@
       "webpage-html-export:Export as HTML": false
     }
   },
-  "active": "807fdce7ad66974d",
+  "active": "a2187831473b80f3",
   "lastOpenFiles": [
-    "1º SEMESTRE/08 2026 - AGOSTO/4.1ª - Tecnologia Mecânica/05 08 2026 Técnologia Mecânica.md",
     "1º SEMESTRE/08 2026 - AGOSTO/4.2ª - Tópicos de Matemática Elementar/05 08 2026 Tópicos de Matemática Elementar.md",
+    "1º SEMESTRE/08 2026 - AGOSTO/4.1ª - Tecnologia Mecânica/05 08 2026 Técnologia Mecânica.md",
     "1º SEMESTRE/1ª SEMESTRE.md",
     "1º SEMESTRE/08 2026 - AGOSTO/3ª - Lógica de Programação/04 08 2026 Lógica de Programação em Arduino.md",
     "Pasted image 20260805154412.png",
