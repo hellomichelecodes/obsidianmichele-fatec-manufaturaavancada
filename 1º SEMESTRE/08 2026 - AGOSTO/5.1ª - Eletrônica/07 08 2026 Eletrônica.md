@@ -45,6 +45,7 @@ Conceitos Importantes:
 		  ![[Pasted image 20260808105955.png]]
 
 Indicações do Professor:
+- Atenção aos exercícios do TEAMS;
 - Comprar calculadora cientifica;
 - Decorar o Pai Nosso;
 
