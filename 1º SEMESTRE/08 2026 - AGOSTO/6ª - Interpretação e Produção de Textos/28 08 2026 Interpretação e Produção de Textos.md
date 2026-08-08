@@ -6,9 +6,6 @@ tags: #InterpretaçaoEProduçaoDeTextos #PrimeiroSemestre #Agosto2026
 ---
 
 Anotações da Aula:
-- Apresentações gerais
-- Dinâmica de entrevista entre os alunos
-- Análise de perfil dos alunos
 
 Conceitos Importantes:
 
