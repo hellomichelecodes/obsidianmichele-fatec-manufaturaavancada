@@ -84,7 +84,7 @@
 - ### **4.1 Máquina de Estados Finitos (FSM)**
 	 - **Estado 0 (Home/Monitoramento):** Comporta fechada, motor inativo, leitura contínua de telemetria.
 	- **Estado 1 (Polinização):** Comporta aberta via servo ($90^\circ$). **Trava lógica ativa:** O motor de passo é desabilitado para impedir deslocamentos enquanto os insetos estão fora.
-	- **Estado 2 (Trânsito Suave):** Comporta fechada ($0^\circ$). Acionamento do motor via `AccelStepper` para translação no trilho.![[Pasted image 20260811130500.png]]
+	- **Estado 2 (Trânsito Suave):** Comporta fechada ($0^\circ$). Acionamento do motor via `AccelStepper` para translação no trilho.![[Fluxograma para Máquina de Estados Finitos (FSM).png]]
 - ### **4.2 Código-Fonte Completo do Firmware ( em C++)
 	#include <AccelStepper.h>
 	#include <Servo.h>
@@ -225,16 +225,9 @@
 	  }
 	}
 ### **5. RESULTADOS ESPERADOS E CONCLUSÃO TEÓRICA**
-
-#### **5.1 Resultados Esperados**
-
-- **Redução de estresse físico:** Aceleração mantida em $150\text{ passos/s}^2$ atenua a vibração mecânica em mais de $80\%$ comparada ao transporte rodoviário.
-    
-- **Segurança biológica:** Interbloqueio da FSM impede acionamentos mecânicos indevidos durante o período de voo dos polinizadores.
-    
-- **Sustentabilidade:** Operação com $0$ emissão local de poluentes e baixo consumo de energia.
-    
-
-#### **5.2 Conclusão**
-
-A modelagem teórica do **SAP-Trilhos** comprova a viabilidade técnica da fusão entre a robótica industrial e a bioengenharia. A arquitetura desenvolvida responde adequadamente aos desafios de conservação de espécies e produtividade agrícola, oferecendo um protocolo robusto para futuros protótipos físicos.
+- ### **5.1 Resultados Esperados**
+	- **Redução de estresse físico:** Aceleração mantida em $150\text{ passos/s}^2$ atenua a vibração mecânica em mais de $80\%$ comparada ao transporte rodoviário.
+	- **Segurança biológica:** Interbloqueio da FSM impede acionamentos mecânicos indevidos durante o período de voo dos polinizadores.
+	- **Sustentabilidade:** Operação com $0$ emissão local de poluentes e baixo consumo de energia.
+- ### **5.2 Conclusão**
+	A modelagem teórica do **SAP-Trilhos** comprova a viabilidade técnica da fusão entre a robótica industrial e a bioengenharia. A arquitetura desenvolvida responde adequadamente aos desafios de conservação de espécies e produtividade agrícola, oferecendo um protocolo robusto para futuros protótipos físicos.
