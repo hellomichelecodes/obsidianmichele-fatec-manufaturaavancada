@@ -5,6 +5,8 @@
     - 1.2 Escopo do Projeto
     - 1.3 Objetivos
 2. **ARQUITETURA DE HARDWARE E COMPONENTES**
+	- 2.1 Lista de Componentes
+	- 2.2 Valores Estimados dos Componentes (em R$)
 3. **FUNDAMENTAÇÃO TEÓRICA E MODELAGEM MATEMÁTICA**
     - 3.1 Dimensionamento de Torque Mecânico
     - 3.2 Cinemática de Movimento Suave (`AccelStepper`)
@@ -15,63 +17,50 @@
     - 5.1 Resultados Esperados
     - 5.2 Conclusão
 ### **1. INTRODUÇÃO E ESCOPO**
-
-#### **1.1 Apresentação do Problema**
-
-A polinização animal incrementa a produtividade de mais de $75\%$ das principais culturas de alimentos do mundo. O transporte migratório tradicional de colmeias, porém, é majoritariamente feito por caminhões o que expõe as colônias a severos níveis de vibração, poluição e oscilações térmicas, fatores fortemente associados ao estresse do enxame e ao Colapso das Colônias.
-#### **1.2 Escopo**
-
-Este trabalho apresenta a modelagem teórica e o dimensionamento eletromecânico do **BEE-SAPST**, um sistema robótico automatizado controlado pela plataforma Arduino para transporte e manejo de colmeias em estufas e lavouras.
-
-- **Abrangência:**
-    - Cinemática de movimento suave sobre trilhos via rampa de aceleração trapezoidal.
-    - Telemetria microclimática (temperatura, umidade e peso) e detecção de janelas de voo.
-    - Algoritmo de controle seguro baseado em Máquina de Estados Finitos (FSM) e interrupções climáticas.
-- **Limitações:** Prototipagem física em escala real e testes biológicos _in situ_ estão fora do escopo do presente semestre.
-#### **1.3 Objetivos**
-
-- **Geral:** Projetar teoricamente um sistema robótico automatizado sobre trilhos para suporte, movimentação e monitoramento de colmeias, assegurando o bem-estar dos polinizadores.
-- **Específicos:**
-    1. Dimensionar a mecânica de tração e o motor de passo.
-    2. Desenvolver a arquitetura de sensores ambientais.
-    3. Modelar a lógica do firmware (FSM) com travas de segurança e rotinas de _homing_.
-
+- ### **1.1 Apresentação do Problema**
+	A polinização animal incrementa a produtividade de mais de $75\%$ das principais culturas de alimentos do mundo. O transporte migratório tradicional de colmeias, porém, é majoritariamente feito por caminhões o que expõe as colônias a severos níveis de vibração, poluição e oscilações térmicas, fatores fortemente associados ao estresse do enxame e ao Colapso das Colônias.
+- ### 1.2 **Escopo do Projeto**
+	Este trabalho apresenta a modelagem teórica e o dimensionamento eletromecânico do **BEE-SAPST**, um sistema robótico automatizado controlado pela plataforma Arduino para transporte e manejo de colmeias em estufas e lavouras.
+	- **Abrangência:**
+	    - Cinemática de movimento suave sobre trilhos via rampa de aceleração trapezoidal.
+	    - Telemetria microclimática (temperatura, umidade e peso) e detecção de janelas de voo.
+	    - Algoritmo de controle seguro baseado em Máquina de Estados Finitos (FSM) e interrupções climáticas.
+	- **Limitações:** Prototipagem física em escala real e testes biológicos _in situ_ estão fora do escopo do presente semestre.
+- ### 1.3 **Objetivo**s
+	- **Geral:** Projetar teoricamente um sistema robótico automatizado sobre trilhos para suporte, movimentação e monitoramento de colmeias, assegurando o bem-estar dos polinizadores.
+	- **Específicos:**
+	    1. Dimensionar a mecânica de tração e o motor de passo.
+	    2. Desenvolver a arquitetura de sensores ambientais.
+	    3. Modelar a lógica do firmware (FSM) com travas de segurança e rotinas de _homing_.
 ### **2. ARQUITETURA DE HARDWARE E COMPONENTES**
+- ### **2.1 Lista de Componentes*** 
+	- **Arduino Mega 2560:** Processador central e gerenciador do firmware.
+	- **Sensor DHT22 (AM2302):** Leitura de temperatura e umidade interna/externa (conectado ao Pino Digital 5).
+	- **Célula de Carga + HX711:** Monitoramento não invasivo da massa de mel e população (conectado aos Pinos Digitais A0 para DT e A1 para SCK).
+	- **Módulo LDR:** Medição da taxa de insolação para liberação de voo (conectado ao Pino Analógico A2).
+	- **Sensor FC-37 (Chuva):** Detecção imediata de precipitação pluviométrica (conectado ao Pino Digital 2 com interrupção).
+	- **Anemômetro de Copos:** Medição da velocidade do vento em km/h (conectado ao Pino Digital 3 com interrupção).
+	- **Motor de Passo NEMA 17:** Tração do carrinho sobre os trilhos (conectado ao Driver A4988 / L298N).
+	- **Driver A4988 / L298N:** Controle de potência e micropassos do motor (conectado aos Pinos Digitais 8 para STEP e 9 para DIR).
+	- **Servomotor MG996R:** Abertura e fechamento automatizado da comporta (conectado ao Pino PWM 10).
+	- **Chave Fim de Curso:** Sensor de referência de ponto zero / _Homing_ (conectado ao Pino Digital 4 com `INPUT_PULLUP`).
+	- **Módulo Relé (5V):** Chaveamento do mini cooler de climatização (conectado ao Pino Digital 7).
+- ### **2.2 Valores Estimados dos Componentes (em R$)**
 
-- **Arduino Mega 2560:** Processador central e gerenciador do firmware.
-- **Sensor DHT22 (AM2302):** Leitura de temperatura e umidade interna/externa (conectado ao Pino Digital 5).
-- **Célula de Carga + HX711:** Monitoramento não invasivo da massa de mel e população (conectado aos Pinos Digitais A0 para DT e A1 para SCK).
-- **Módulo LDR:** Medição da taxa de insolação para liberação de voo (conectado ao Pino Analógico A2).
-- **Sensor FC-37 (Chuva):** Detecção imediata de precipitação pluviométrica (conectado ao Pino Digital 2 com interrupção).
-- **Anemômetro de Copos:** Medição da velocidade do vento em km/h (conectado ao Pino Digital 3 com interrupção).
-- **Motor de Passo NEMA 17:** Tração do carrinho sobre os trilhos (conectado ao Driver A4988 / L298N).
-- **Driver A4988 / L298N:** Controle de potência e micropassos do motor (conectado aos Pinos Digitais 8 para STEP e 9 para DIR).
-- **Servomotor MG996R:** Abertura e fechamento automatizado da comporta (conectado ao Pino PWM 10).
-- **Chave Fim de Curso:** Sensor de referência de ponto zero / _Homing_ (conectado ao Pino Digital 4 com `INPUT_PULLUP`).
-- **Módulo Relé (5V):** Chaveamento do mini cooler de climatização (conectado ao Pino Digital 7).
-- ### **Valores Estimados dos Componentes (em R$)**
-
-- **Arduino Mega 2560 (R3 / Compatível):** R$ 110,00 – R$ 140,00
-    
-- **Sensor DHT22 (AM2302):** R$ 25,00 – R$ 40,00
-    
-- **Célula de Carga + Módulo HX711:** R$ 35,00 – R$ 60,00
-    
-- **Módulo LDR (Luminosidade):** R$ 5,00 – R$ 12,00
-    
-- **Sensor FC-37 (Chuva):** R$ 8,00 – R$ 15,00
-    
-- **Anemômetro de Copos:** R$ 75,00 – R$ 180,00
-    
-- **Motor de Passo NEMA 17 (4,2 kgf·cm):** R$ 65,00 – R$ 85,00
-    
-- **Driver A4988 / L298N:** R$ 12,00 – R$ 25,00
-    
-- **Servomotor MG996R (Engrenagem Metálica):** R$ 35,00 – R$ 55,00
-    
-- **Chave Fim de Curso (_Endstop_):** R$ 5,00 – R$ 12,00
-    
-- **Módulo Relé 5V (1 Canal):** R$ 8,00 – R$ 15,00
-    
-
-- **Custo Total Estimado da Eletrônica:** R$ 383,00 – R$ 639,00
+	- **Arduino Mega 2560 (R3 / Compatível):** R$ 110,00 – R$ 140,00
+	- **Sensor DHT22 (AM2302):** R$ 25,00 – R$ 40,00
+	- **Célula de Carga + Módulo HX711:** R$ 35,00 – R$ 60,00
+	- **Módulo LDR (Luminosidade):** R$ 5,00 – R$ 12,00
+	- **Sensor FC-37 (Chuva):** R$ 8,00 – R$ 15,00
+	- **Anemômetro de Copos:** R$ 75,00 – R$ 180,00
+	- **Motor de Passo NEMA 17 (4,2 kgf·cm):** R$ 65,00 – R$ 85,00
+	- **Driver A4988 / L298N:** R$ 12,00 – R$ 25,00
+	- **Servomotor MG996R (Engrenagem Metálica):** R$ 35,00 – R$ 55,00
+	- **Chave Fim de Curso (_Endstop_):** R$ 5,00 – R$ 12,00
+	- **Módulo Relé 5V (1 Canal):** R$ 8,00 – R$ 15,00
+	
+	- **Custo Total Estimado da Eletrônica:** R$ 383,00 – R$ 639,00
+- ### **2.3 Resumo de Custos do Sistema Eletrônico**
+	- **Custo Mínimo Estimado:** R$ 380,00
+	- **Custo Máximo Estimado:** R$ 640,00 _(a variação principal decorre do tipo/qualidade do anemômetro e de ser peça nacional ou importada)_.
+	Este orçamento contempla apenas os **componentes eletrônicos e sensores**. Estrutura mecânica (trilhos de alumínio, roldanas, correia GT2, gabinete estanque e fonte de alimentação) deve ser cotada à parte no projeto de integração física.
