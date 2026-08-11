@@ -7,6 +7,7 @@
 2. **ARQUITETURA DE HARDWARE E COMPONENTES**
 	- 2.1 Lista de Componentes
 	- 2.2 Valores Estimados dos Componentes (em R$)
+	- 2.3 Resumo de Custos do Sistema Eletrônico
 3. **FUNDAMENTAÇÃO TEÓRICA E MODELAGEM MATEMÁTICA**
     - 3.1 Dimensionamento de Torque Mecânico
     - 3.2 Cinemática de Movimento Suave (`AccelStepper`)
@@ -62,5 +63,18 @@
 	- **Custo Total Estimado da Eletrônica:** R$ 383,00 – R$ 639,00
 - ### **2.3 Resumo de Custos do Sistema Eletrônico**
 	- **Custo Mínimo Estimado:** R$ 380,00
-	- **Custo Máximo Estimado:** R$ 640,00 _(a variação principal decorre do tipo/qualidade do anemômetro e de ser peça nacional ou importada)_.
+	- **Custo Máximo Estimado:** R$ 640,00
 	Este orçamento contempla apenas os **componentes eletrônicos e sensores**. Estrutura mecânica (trilhos de alumínio, roldanas, correia GT2, gabinete estanque e fonte de alimentação) deve ser cotada à parte no projeto de integração física.
+### **3. FUNDAMENTAÇÃO TEÓRICA E MODELAGEM MATEMÁTICA**
+- ### **3.1 Dimensionamento de Torque Mecânico**
+	Para movimentar uma colmeia com massa total $m = 40\text{ kg}$ sobre o trilho sob um coeficiente de atrito de rolamento $\mu = 0,02$ e uma rampa de aceleração suave $a = 0,2\text{ m/s}^2$:
+	- **Força Total de Tração ($F_{\text{total}}$)**:
+		$$F_{\text{atrito}} = \mu \cdot m \cdot g = 0,02 \cdot 40 \cdot 9,81 = 7,85\text{ N}$$
+		$$F_{\text{acel}} = m \cdot a = 40 \cdot 0,2 = 8,00\text{ N}$$
+		$$F_{\text{total}} = F_{\text{atrito}} + F_{\text{acel}} = 15,85\text{ N}$$
+	- **Torque do Motor ($T_{\text{motor}}$) via Polia GT2 ($r = 0,00637\text{ m}$, $\eta = 0,90$):**
+		- $$T_{\text{nominal}} = \frac{F_{\text{total}} \cdot r}{\eta} = \frac{15,85 \cdot 0,00637}{0,90} = 0,112\text{ N}\cdot\text{m}$$
+		- **Aplicação do Fator de Segurança ($FS = 1,5$):**
+	_Conclusão:_ O motor **NEMA 17** ($4,2\text{ kgf}\cdot\text{cm}$) atende à aplicação com uma margem de segurança de $2,4\times$.
+- ### **3.2 Cinemática de Movimento Suave (`AccelStepper`)**
+	Para eliminar a vibração ressonante e evitar trancos mecânicos, a velocidade do motor $v(t)$ evolui segundo uma rampa trapezoidal de aceleração controlada $a$:
