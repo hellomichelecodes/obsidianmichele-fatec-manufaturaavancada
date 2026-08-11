@@ -8,26 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "cddbfa273c69af03",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "FATEC - MANUFATURA AVANÇADA/1º SEMESTRE/PROJETO BEE-SAPST - DIP 1 SEMESTRE/RELATÓRIO TÉCNICO DE PROJETO - SISTEMA AUTOMATIZADO DE POLINIZAÇÃO SUSTENTÁVEL SOBRE TRILHOS (BEE-SAPST).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "RELATÓRIO TÉCNICO DE PROJETO - SISTEMA AUTOMATIZADO DE POLINIZAÇÃO SUSTENTÁVEL SOBRE TRILHOS (BEE-SAPST)"
-            }
-          },
-          {
             "id": "e66da126b703ce67",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FATEC - MANUFATURA AVANÇADA/1º SEMESTRE/PROJETO BEE-SAPST - DIP 1 SEMESTRE/RELATÓRIO TÉCNICO DE PROJETO - SISTEMA AUTOMATIZADO DE POLINIZAÇÃO SUSTENTÁVEL SOBRE TRILHOS (BEE-SAPST).md",
+                "file": "FATEC - MANUFATURA AVANÇADA/1º SEMESTRE MD/PROJETO BEE-SAPST - DIP 1 SEMESTRE/RELATÓRIO TÉCNICO DE PROJETO - SISTEMA AUTOMATIZADO DE POLINIZAÇÃO SUSTENTÁVEL SOBRE TRILHOS (BEE-SAPST).md",
                 "mode": "source",
                 "source": false
               },
@@ -35,8 +21,7 @@
               "title": "RELATÓRIO TÉCNICO DE PROJETO - SISTEMA AUTOMATIZADO DE POLINIZAÇÃO SUSTENTÁVEL SOBRE TRILHOS (BEE-SAPST)"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -207,44 +192,51 @@
   },
   "active": "e66da126b703ce67",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "FATEC - MANUFATURA AVANÇADA/1º-semestre HTML/09-2026-setembro/6ª-interpretação-e-produção-de-textos/11-09-2026-interpretação-e-produção-de-textos.html",
+    "FATEC - MANUFATURA AVANÇADA/1º-semestre HTML/09-2026-setembro/6ª-interpretação-e-produção-de-textos/18-09-2026-interpretação-e-produção-de-textos.html",
+    "FATEC - MANUFATURA AVANÇADA/1º-semestre HTML/09-2026-setembro/6ª-interpretação-e-produção-de-textos/04-09-2026-interpretação-e-produção-de-textos.html",
+    "FATEC - MANUFATURA AVANÇADA/1º-semestre HTML/09-2026-setembro/6ª-interpretação-e-produção-de-textos/25-09-2026-interpretação-e-produção-de-textos.html",
+    "FATEC - MANUFATURA AVANÇADA/1º-semestre HTML/09-2026-setembro/7.2ª-metodologia-de-pesquisa/26-09-2026-metodologia-de-pesquisa.html",
+    "FATEC - MANUFATURA AVANÇADA/1º-semestre HTML/09-2026-setembro/7.2ª-metodologia-de-pesquisa/05-09-2026-metodologia-de-pesquisa.html",
+    "FATEC - MANUFATURA AVANÇADA/1º-semestre HTML/09-2026-setembro/7.1ª-desenho-técnico/26-09-2026-desenho-técnico.html",
+    "FATEC - MANUFATURA AVANÇADA/1º-semestre HTML/09-2026-setembro/7.1ª-desenho-técnico/12-09-2026-desenho-técnico.html",
+    "FATEC - MANUFATURA AVANÇADA/1º-semestre HTML/09-2026-setembro/7.2ª-metodologia-de-pesquisa/19-09-2026-metodologia-de-pesquisa.html",
+    "FATEC - MANUFATURA AVANÇADA/1º-semestre HTML/09-2026-setembro/7.2ª-metodologia-de-pesquisa/12-09-2026-metodologia-de-pesquisa.html",
+    "FATEC - MANUFATURA AVANÇADA/1º-semestre HTML/09-2026-setembro/5.1ª-eletrônica/24-09-2026-eletrônica.html",
     "FATEC - MANUFATURA AVANÇADA/1º SEMESTRE/PROJETO BEE-SAPST - DIP 1 SEMESTRE/RELATÓRIO TÉCNICO DE PROJETO - SISTEMA AUTOMATIZADO DE POLINIZAÇÃO SUSTENTÁVEL SOBRE TRILHOS (BEE-SAPST).md",
-    "PROJETO D.I.P. - PESQUISA/RELATÓRIO TÉCNICO DE PROJETO - SISTEMA AUTOMATIZADO DE POLINIZAÇÃO SUSTENTÁVEL SOBRE TRILHOS (BEE-SAPST).md",
+    "FATEC - MANUFATURA AVANÇADA/1º SEMESTRE MD/08 2026 - AGOSTO/7.1ª - Desenho Técnico/Apostilas/Mapa Mental de Ciguras Planas.PNG",
+    "FATEC - MANUFATURA AVANÇADA/1º SEMESTRE MD/08 2026 - AGOSTO/5.1ª - Eletrônica/Imagens/Pasted image 20260808105955.png",
+    "FATEC - MANUFATURA AVANÇADA/1º SEMESTRE MD/08 2026 - AGOSTO/5.1ª - Eletrônica/Imagens/Pasted image 20260808105830.png",
+    "FATEC - MANUFATURA AVANÇADA/1º SEMESTRE MD/08 2026 - AGOSTO/5.1ª - Eletrônica/Imagens/Pasted image 20260808105735.png",
+    "FATEC - MANUFATURA AVANÇADA/1º SEMESTRE MD/08 2026 - AGOSTO/5.1ª - Eletrônica/Imagens/Pasted image 20260808105617.png",
+    "FATEC - MANUFATURA AVANÇADA/1º SEMESTRE MD/08 2026 - AGOSTO/5.1ª - Eletrônica/Imagens/Pasted image 20260808105458.png",
+    "FATEC - MANUFATURA AVANÇADA/1º SEMESTRE MD/08 2026 - AGOSTO/5.1ª - Eletrônica/Imagens/Pasted image 20260808105356.png",
+    "FATEC - MANUFATURA AVANÇADA/1º SEMESTRE MD/PROJETO BEE-SAPST - DIP 1 SEMESTRE/Imagens/Fluxograma para Máquina de Estados Finitos (FSM).png",
+    "FATEC - MANUFATURA AVANÇADA/1º SEMESTRE MD/08 2026 - AGOSTO/7.1ª - Desenho Técnico/21 08 2026 Desenho Técnico.md",
+    "FATEC - MANUFATURA AVANÇADA/1º SEMESTRE MD/08 2026 - AGOSTO/7.1ª - Desenho Técnico/27 08 2026 Desenho Técnico.md",
+    "FATEC - MANUFATURA AVANÇADA/1º SEMESTRE MD/08 2026 - AGOSTO/7.1ª - Desenho Técnico/14 08 2026 Desenho Técnico.md",
+    "FATEC - MANUFATURA AVANÇADA/1º SEMESTRE MD/08 2026 - AGOSTO/7.1ª - Desenho Técnico/08 08 2026 Desenho Técnico.md",
+    "FATEC - MANUFATURA AVANÇADA/1º SEMESTRE MD/08 2026 - AGOSTO/6ª - Interpretação e Produção de Textos/14 08 2026 Interpretação e Produção de Textos.md",
+    "FATEC - MANUFATURA AVANÇADA/1º SEMESTRE MD/08 2026 - AGOSTO/6ª - Interpretação e Produção de Textos/28 08 2026 Interpretação e Produção de Textos.md",
+    "FATEC - MANUFATURA AVANÇADA/1º SEMESTRE MD/08 2026 - AGOSTO/6ª - Interpretação e Produção de Textos/21 08 2026 Interpretação e Produção de Textos.md",
+    "FATEC - MANUFATURA AVANÇADA/1º SEMESTRE MD/08 2026 - AGOSTO/7.2ª - Metodologia de Pesquisa/21 08 2026 Metodologia de Pesquisa.md",
+    "FATEC - MANUFATURA AVANÇADA/1º SEMESTRE MD/08 2026 - AGOSTO/6ª - Interpretação e Produção de Textos/07 08 2026 Interpretação e Produção de Textos.md",
+    "FATEC - MANUFATURA AVANÇADA/1º SEMESTRE MD/08 2026 - AGOSTO/7.2ª - Metodologia de Pesquisa/27 08 2026 Metodologia de Pesquisa.md",
+    "FATEC - MANUFATURA AVANÇADA/1º SEMESTRE MD/08 2026 - AGOSTO/7.2ª - Metodologia de Pesquisa/14 08 2026 Metodologia de Pesquisa.md",
+    "FATEC - MANUFATURA AVANÇADA/1º SEMESTRE MD/08 2026 - AGOSTO/7.2ª - Metodologia de Pesquisa/08 08 2026 Metodologia de Pesquisa.md",
+    "FATEC - MANUFATURA AVANÇADA/1º SEMESTRE MD/08 2026 - AGOSTO/5.1ª - Eletrônica/27 08 2026 Eletrônica.md",
+    "FATEC - MANUFATURA AVANÇADA/1º SEMESTRE MD/08 2026 - AGOSTO/5.1ª - Eletrônica/26 08 2026 Eletrônica.md",
+    "FATEC - MANUFATURA AVANÇADA/1º SEMESTRE MD/08 2026 - AGOSTO/5.1ª - Eletrônica/20 08 2026 Eletrônica.md",
+    "FATEC - MANUFATURA AVANÇADA/1º SEMESTRE MD/08 2026 - AGOSTO/5.1ª - Eletrônica/19 08 2026 Eletrônica.md",
+    "FATEC - MANUFATURA AVANÇADA/1º SEMESTRE MD/08 2026 - AGOSTO/5.1ª - Eletrônica/12 08 2026 Eletrônica.md",
+    "FATEC - MANUFATURA AVANÇADA/1º SEMESTRE MD/08 2026 - AGOSTO/5.1ª - Eletrônica/13 08 2026 Eletrônica.md",
+    "FATEC - MANUFATURA AVANÇADA/1º SEMESTRE MD/08 2026 - AGOSTO/5.1ª - Eletrônica/07 08 2026 Eletrônica.md",
+    "FATEC - MANUFATURA AVANÇADA/1º SEMESTRE MD/08 2026 - AGOSTO/4.2ª - Tópicos de Matemática Elementar/26 08 2026 Tópicos de Matemática Elementar.md",
+    "FATEC - MANUFATURA AVANÇADA/1º SEMESTRE MD/08 2026 - AGOSTO/4.2ª - Tópicos de Matemática Elementar/12 08 2026 Tópicos de Matemática Elementar.md",
+    "FATEC - MANUFATURA AVANÇADA/1º SEMESTRE MD/08 2026 - AGOSTO/4.2ª - Tópicos de Matemática Elementar/19 08 2026 Tópicos de Matemática Elementar.md",
+    "FATEC - MANUFATURA AVANÇADA/1º SEMESTRE MD/08 2026 - AGOSTO/5.1ª - Eletrônica/06 08 2026 Eletrônica.md",
+    "FATEC - MANUFATURA AVANÇADA/1º SEMESTRE MD/08 2026 - AGOSTO/4.1ª - Tecnologia Mecânica/26 08 2026 Técnologia Mecânica.md",
     "FATEC - MANUFATURA AVANÇADA/1º SEMESTRE/PROJETO BEE-SAPST - DIP 1 SEMESTRE/Imagens/Fluxograma para Máquina de Estados Finitos (FSM).png",
-    "FATEC - MANUFATURA AVANÇADA/1º SEMESTRE/PROJETO BEE-SAPST - DIP 1 SEMESTRE/Imagens",
-    "FATEC - MANUFATURA AVANÇADA/1º SEMESTRE/PROJETO BEE-SAPST - DIP 1 SEMESTRE",
-    "PROJETO D.I.P. - PESQUISA/Sem título.md",
-    "PROJETO D.I.P. - PESQUISA/Imagens",
-    "PROJETO D.I.P. - PESQUISA/Imagens/Fluxograma para Máquina de Estados Finitos (FSM).png",
-    "FATEC - MANUFATURA AVANÇADA/1º SEMESTRE/08 2026 - AGOSTO/5.1ª - Eletrônica/07 08 2026 Eletrônica.md",
-    "PROJETO D.I.P. - PESQUISA",
-    "Nova pasta",
-    "FATEC - MANUFATURA AVANÇADA/1º-semestre/09-2026-setembro/7.2ª-metodologia-de-pesquisa/19-09-2026-metodologia-de-pesquisa.html",
-    "FATEC - MANUFATURA AVANÇADA/1º-semestre/09-2026-setembro/7.2ª-metodologia-de-pesquisa/26-09-2026-metodologia-de-pesquisa.html",
-    "FATEC - MANUFATURA AVANÇADA/1º-semestre/09-2026-setembro/7.2ª-metodologia-de-pesquisa/12-09-2026-metodologia-de-pesquisa.html",
-    "FATEC - MANUFATURA AVANÇADA/1º-semestre/09-2026-setembro/7.2ª-metodologia-de-pesquisa/05-09-2026-metodologia-de-pesquisa.html",
-    "FATEC - MANUFATURA AVANÇADA/1º-semestre/09-2026-setembro/7.1ª-desenho-técnico/26-09-2026-desenho-técnico.html",
-    "FATEC - MANUFATURA AVANÇADA/1º SEMESTRE/08 2026 - AGOSTO/5.1ª - Eletrônica/Imagens/Pasted image 20260808105955.png",
-    "FATEC - MANUFATURA AVANÇADA/1º SEMESTRE/08 2026 - AGOSTO/5.1ª - Eletrônica/Imagens/Pasted image 20260808105830.png",
-    "FATEC - MANUFATURA AVANÇADA/1º SEMESTRE/08 2026 - AGOSTO/5.1ª - Eletrônica/Imagens/Pasted image 20260808105735.png",
-    "FATEC - MANUFATURA AVANÇADA/1º SEMESTRE/08 2026 - AGOSTO/5.1ª - Eletrônica/Imagens/Pasted image 20260808105617.png",
-    "FATEC - MANUFATURA AVANÇADA/1º SEMESTRE/08 2026 - AGOSTO/5.1ª - Eletrônica/Imagens/Pasted image 20260808105458.png",
-    "FATEC - MANUFATURA AVANÇADA/1º SEMESTRE/08 2026 - AGOSTO/5.1ª - Eletrônica/Imagens/Pasted image 20260808105356.png",
-    "1º SEMESTRE/08 2026 - AGOSTO/5.1ª - Eletrônica/Pasted image 20260808105955.png",
-    "1º SEMESTRE/08 2026 - AGOSTO/5.1ª - Eletrônica/Pasted image 20260808105830.png",
-    "FATEC - MANUFATURA AVANÇADA/1º SEMESTRE/08 2026 - AGOSTO/5.1ª - Eletrônica/06 08 2026 Eletrônica.md",
-    "FATEC - MANUFATURA AVANÇADA/1º SEMESTRE/08 2026 - AGOSTO/6ª - Interpretação e Produção de Textos/07 08 2026 Interpretação e Produção de Textos.md",
-    "FATEC - MANUFATURA AVANÇADA/1º SEMESTRE/08 2026 - AGOSTO/6ª - Interpretação e Produção de Textos/21 08 2026 Interpretação e Produção de Textos.md",
-    "FATEC - MANUFATURA AVANÇADA/1º SEMESTRE/08 2026 - AGOSTO/6ª - Interpretação e Produção de Textos/28 08 2026 Interpretação e Produção de Textos.md",
-    "FATEC - MANUFATURA AVANÇADA/1º SEMESTRE/08 2026 - AGOSTO/5.1ª - Eletrônica/27 08 2026 Eletrônica.md",
-    "FATEC - MANUFATURA AVANÇADA/1º SEMESTRE/08 2026 - AGOSTO/5.1ª - Eletrônica/20 08 2026 Eletrônica.md",
-    "FATEC - MANUFATURA AVANÇADA/1º SEMESTRE/08 2026 - AGOSTO/5.1ª - Eletrônica/26 08 2026 Eletrônica.md",
-    "FATEC - MANUFATURA AVANÇADA/1º SEMESTRE/08 2026 - AGOSTO/5.1ª - Eletrônica/13 08 2026 Eletrônica.md",
-    "FATEC - MANUFATURA AVANÇADA/1º SEMESTRE/08 2026 - AGOSTO/5.2ª - Inglês I/06 08 2026 Inglês I.md",
-    "FATEC - MANUFATURA AVANÇADA/1º SEMESTRE/08 2026 - AGOSTO/4.2ª - Tópicos de Matemática Elementar/05 08 2026 Tópicos de Matemática Elementar.md",
-    "FATEC - MANUFATURA AVANÇADA/1º SEMESTRE/08 2026 - AGOSTO/4.1ª - Tecnologia Mecânica/05 08 2026 Técnologia Mecânica.md",
-    "FATEC - MANUFATURA AVANÇADA/1º SEMESTRE/1ª SEMESTRE.md",
-    "FATEC - MANUFATURA AVANÇADA/1º SEMESTRE/08 2026 - AGOSTO/3ª - Lógica de Programação/04 08 2026 Lógica de Programação em Arduino.md",
-    "FATEC - MANUFATURA AVANÇADA/1º SEMESTRE/08 2026 - AGOSTO/2ª - Desenvolvimento Integrado do Produto I/03 08 2026 Desenvolvimento Integrado do Produto I.md"
+    "PROJETO D.I.P. - PESQUISA/Imagens/Fluxograma para Máquina de Estados Finitos (FSM).png"
   ]
 }
