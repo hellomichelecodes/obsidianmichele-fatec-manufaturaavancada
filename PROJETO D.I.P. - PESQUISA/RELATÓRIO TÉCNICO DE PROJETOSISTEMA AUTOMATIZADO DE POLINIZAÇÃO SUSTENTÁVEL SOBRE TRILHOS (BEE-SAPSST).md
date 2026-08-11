@@ -35,3 +35,43 @@ Este trabalho apresenta a modelagem teórica e o dimensionamento eletromecânico
     1. Dimensionar a mecânica de tração e o motor de passo.
     2. Desenvolver a arquitetura de sensores ambientais.
     3. Modelar a lógica do firmware (FSM) com travas de segurança e rotinas de _homing_.
+
+### **2. ARQUITETURA DE HARDWARE E COMPONENTES**
+
+- **Arduino Mega 2560:** Processador central e gerenciador do firmware.
+- **Sensor DHT22 (AM2302):** Leitura de temperatura e umidade interna/externa (conectado ao Pino Digital 5).
+- **Célula de Carga + HX711:** Monitoramento não invasivo da massa de mel e população (conectado aos Pinos Digitais A0 para DT e A1 para SCK).
+- **Módulo LDR:** Medição da taxa de insolação para liberação de voo (conectado ao Pino Analógico A2).
+- **Sensor FC-37 (Chuva):** Detecção imediata de precipitação pluviométrica (conectado ao Pino Digital 2 com interrupção).
+- **Anemômetro de Copos:** Medição da velocidade do vento em km/h (conectado ao Pino Digital 3 com interrupção).
+- **Motor de Passo NEMA 17:** Tração do carrinho sobre os trilhos (conectado ao Driver A4988 / L298N).
+- **Driver A4988 / L298N:** Controle de potência e micropassos do motor (conectado aos Pinos Digitais 8 para STEP e 9 para DIR).
+- **Servomotor MG996R:** Abertura e fechamento automatizado da comporta (conectado ao Pino PWM 10).
+- **Chave Fim de Curso:** Sensor de referência de ponto zero / _Homing_ (conectado ao Pino Digital 4 com `INPUT_PULLUP`).
+- **Módulo Relé (5V):** Chaveamento do mini cooler de climatização (conectado ao Pino Digital 7).
+- ### **Valores Estimados dos Componentes (em R$)**
+
+- **Arduino Mega 2560 (R3 / Compatível):** R$ 110,00 – R$ 140,00
+    
+- **Sensor DHT22 (AM2302):** R$ 25,00 – R$ 40,00
+    
+- **Célula de Carga + Módulo HX711:** R$ 35,00 – R$ 60,00
+    
+- **Módulo LDR (Luminosidade):** R$ 5,00 – R$ 12,00
+    
+- **Sensor FC-37 (Chuva):** R$ 8,00 – R$ 15,00
+    
+- **Anemômetro de Copos:** R$ 75,00 – R$ 180,00
+    
+- **Motor de Passo NEMA 17 (4,2 kgf·cm):** R$ 65,00 – R$ 85,00
+    
+- **Driver A4988 / L298N:** R$ 12,00 – R$ 25,00
+    
+- **Servomotor MG996R (Engrenagem Metálica):** R$ 35,00 – R$ 55,00
+    
+- **Chave Fim de Curso (_Endstop_):** R$ 5,00 – R$ 12,00
+    
+- **Módulo Relé 5V (1 Canal):** R$ 8,00 – R$ 15,00
+    
+
+- **Custo Total Estimado da Eletrônica:** R$ 383,00 – R$ 639,00
