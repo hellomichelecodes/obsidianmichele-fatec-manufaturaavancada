@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "RELATÓRIO TÉCNICO DE PROJETO - SISTEMA AUTOMATIZADO DE POLINIZAÇÃO SUSTENTÁVEL SOBRE TRILHOS (BEE-SAPST)"
             }
+          },
+          {
+            "id": "e66da126b703ce67",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FATEC - MANUFATURA AVANÇADA/1º SEMESTRE/PROJETO BEE-SAPST - DIP 1 SEMESTRE/RELATÓRIO TÉCNICO DE PROJETO - SISTEMA AUTOMATIZADO DE POLINIZAÇÃO SUSTENTÁVEL SOBRE TRILHOS (BEE-SAPST).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "RELATÓRIO TÉCNICO DE PROJETO - SISTEMA AUTOMATIZADO DE POLINIZAÇÃO SUSTENTÁVEL SOBRE TRILHOS (BEE-SAPST)"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -190,11 +205,12 @@
       "webpage-html-export:Export as HTML": false
     }
   },
-  "active": "cddbfa273c69af03",
+  "active": "e66da126b703ce67",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "FATEC - MANUFATURA AVANÇADA/1º SEMESTRE/PROJETO BEE-SAPST - DIP 1 SEMESTRE/RELATÓRIO TÉCNICO DE PROJETO - SISTEMA AUTOMATIZADO DE POLINIZAÇÃO SUSTENTÁVEL SOBRE TRILHOS (BEE-SAPST).md",
     "PROJETO D.I.P. - PESQUISA/RELATÓRIO TÉCNICO DE PROJETO - SISTEMA AUTOMATIZADO DE POLINIZAÇÃO SUSTENTÁVEL SOBRE TRILHOS (BEE-SAPST).md",
     "FATEC - MANUFATURA AVANÇADA/1º SEMESTRE/PROJETO BEE-SAPST - DIP 1 SEMESTRE/Imagens/Fluxograma para Máquina de Estados Finitos (FSM).png",
-    "FATEC - MANUFATURA AVANÇADA/1º SEMESTRE/PROJETO BEE-SAPST - DIP 1 SEMESTRE/RELATÓRIO TÉCNICO DE PROJETO - SISTEMA AUTOMATIZADO DE POLINIZAÇÃO SUSTENTÁVEL SOBRE TRILHOS (BEE-SAPST).md",
     "FATEC - MANUFATURA AVANÇADA/1º SEMESTRE/PROJETO BEE-SAPST - DIP 1 SEMESTRE/Imagens",
     "FATEC - MANUFATURA AVANÇADA/1º SEMESTRE/PROJETO BEE-SAPST - DIP 1 SEMESTRE",
     "PROJETO D.I.P. - PESQUISA/Sem título.md",

@@ -92,8 +92,7 @@
 	- **Estado 1 (Polinização):** Comporta aberta via servo ($90^\circ$). **Trava lógica ativa:** O motor de passo é desabilitado para impedir deslocamentos enquanto os insetos estão fora.
 	- **Estado 2 (Trânsito Suave):** Comporta fechada ($0^\circ$). Acionamento do motor via `AccelStepper` para translação no trilho.![[Fluxograma para Máquina de Estados Finitos (FSM).png]]
 	
-- ### **4.2 Código-Fonte Completo do Firmware ( em C++)
-		Em produção.
+- ### **4.2 Código-Fonte Completo do Firmware ( em C++)**
 ### **5. RESULTADOS ESPERADOS E CONCLUSÃO TEÓRICA**
 - ### **5.1 Resultados Esperados**
 	- **Redução de estresse físico:** Aceleração mantida em $150\text{ passos/s}^2$ atenua a vibração mecânica em mais de $80\%$ comparada ao transporte rodoviário.
