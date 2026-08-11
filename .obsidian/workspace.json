@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FATEC - MANUFATURA AVANÇADA/1º SEMESTRE MD/PROJETO BEE-SAPST - DIP 1 SEMESTRE/RELATÓRIO TÉCNICO DE PROJETO - SISTEMA AUTOMATIZADO DE POLINIZAÇÃO SUSTENTÁVEL SOBRE TRILHOS (BEE-SAPST).md",
+                "file": "FATEC - MANUFATURA AVANÇADA/1º SEMESTRE MD/PROJETO BEE-SAPST - DIP 1 SEMESTRE/RELATÓRIO TÉCNICO DE PROJETO E FABRICAÇÃO.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "RELATÓRIO TÉCNICO DE PROJETO - SISTEMA AUTOMATIZADO DE POLINIZAÇÃO SUSTENTÁVEL SOBRE TRILHOS (BEE-SAPST)"
+              "title": "RELATÓRIO TÉCNICO DE PROJETO E FABRICAÇÃO"
             }
           }
         ]
@@ -83,7 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "01306a296a851a55",
@@ -192,6 +192,7 @@
   },
   "active": "e66da126b703ce67",
   "lastOpenFiles": [
+    "Pasted image 20260811180549.png",
     "FATEC - MANUFATURA AVANÇADA/1º-semestre HTML/09-2026-setembro/6ª-interpretação-e-produção-de-textos/11-09-2026-interpretação-e-produção-de-textos.html",
     "FATEC - MANUFATURA AVANÇADA/1º-semestre HTML/09-2026-setembro/6ª-interpretação-e-produção-de-textos/18-09-2026-interpretação-e-produção-de-textos.html",
     "FATEC - MANUFATURA AVANÇADA/1º-semestre HTML/09-2026-setembro/6ª-interpretação-e-produção-de-textos/04-09-2026-interpretação-e-produção-de-textos.html",
@@ -202,7 +203,6 @@
     "FATEC - MANUFATURA AVANÇADA/1º-semestre HTML/09-2026-setembro/7.1ª-desenho-técnico/12-09-2026-desenho-técnico.html",
     "FATEC - MANUFATURA AVANÇADA/1º-semestre HTML/09-2026-setembro/7.2ª-metodologia-de-pesquisa/19-09-2026-metodologia-de-pesquisa.html",
     "FATEC - MANUFATURA AVANÇADA/1º-semestre HTML/09-2026-setembro/7.2ª-metodologia-de-pesquisa/12-09-2026-metodologia-de-pesquisa.html",
-    "FATEC - MANUFATURA AVANÇADA/1º-semestre HTML/09-2026-setembro/5.1ª-eletrônica/24-09-2026-eletrônica.html",
     "FATEC - MANUFATURA AVANÇADA/1º SEMESTRE/PROJETO BEE-SAPST - DIP 1 SEMESTRE/RELATÓRIO TÉCNICO DE PROJETO - SISTEMA AUTOMATIZADO DE POLINIZAÇÃO SUSTENTÁVEL SOBRE TRILHOS (BEE-SAPST).md",
     "FATEC - MANUFATURA AVANÇADA/1º SEMESTRE MD/08 2026 - AGOSTO/7.1ª - Desenho Técnico/Apostilas/Mapa Mental de Ciguras Planas.PNG",
     "FATEC - MANUFATURA AVANÇADA/1º SEMESTRE MD/08 2026 - AGOSTO/5.1ª - Eletrônica/Imagens/Pasted image 20260808105955.png",
