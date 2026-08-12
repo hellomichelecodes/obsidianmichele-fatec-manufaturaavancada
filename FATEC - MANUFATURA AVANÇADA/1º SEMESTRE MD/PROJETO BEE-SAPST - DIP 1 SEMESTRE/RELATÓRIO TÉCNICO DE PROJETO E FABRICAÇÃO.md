@@ -54,8 +54,8 @@ O BEE-SAPST une a robótica, a manufatura aditiva e a bioengenharia para transfo
 - ### 1.3 **Objetivo**s
 	- **Geral:** Projetar e validar teoricamente um sistema robótico automatizado sobre trilhos para suporte, movimentação e monitoramento microclimático de colmeias.
 	- **Específicos:** Dimensionar a tração mecânica para a carga real de $80\text{ kg}$; projetar o chassi impresso em 3D compatível com NEMA 17 e NEMA 23; implementar o firmware baseado em Máquina de Estados Finitos (FSM).
-### **2. ARQUITETURA DE HARDWARE E CUSTOS
-- ### **2.1 Lista de Componentes Eletrônicos*** 
+### **2. ARQUITETURA DE HARDWARE E CUSTOS**
+- ### **2.1 Lista de Componentes Eletrônicos** 
 	- **Microcontrolador Central:** Arduino Mega 2560 R3.
 	- **Telemetria Microclimática:** Sensor DHT22 (Pino D5) para temperatura e umidade.
 	- **Monitoramento de Peso:** Célula de Carga com módulo HX711 (Pinos A0/A1).
@@ -63,7 +63,7 @@ O BEE-SAPST une a robótica, a manufatura aditiva e a bioengenharia para transfo
 	- **Segurança Climática:** Sensor FC-37 para chuva (Pino D2) e Anemômetro de copos para vento (Pino D3).
 	- **Atuadores de Tração e Porta:** Driver A4988 / L298N (Pinos D8/D9); Servomotor MG996R para comporta (Pino PWM D10); Motor de passo (NEMA 17 em bancada / NEMA 23 em campo).
 	- **Auxiliares e Fim de Curso:** Endstop Mecânico (Pino D4); Módulo Relé 5V para mini-cooler (Pino D7).
-- ### **2.2 Componentes Mecânicos e Estruturais Industriais
+- ### **2.2 Componentes Mecânicos e Estruturais Industriais**
 	- Perfil de alumínio estrutural $40\times 40\text{ mm}$ e guia linear metálica (ex.: SBR20 ou MGN15).
 	- Correia síncrona GT2 reforçada ($9\text{ mm}$ a $15\text{ mm}$) e polia de alumínio de 20 dentes.
 	- Placa base de madeira de reflorestamento para as gavetas hexagonais.
@@ -75,7 +75,7 @@ O BEE-SAPST une a robótica, a manufatura aditiva e a bioengenharia para transfo
 	- **Custo Total Estimado:** R$ 770,00 – R$ 1.350,00
 ### **3. MODELAGEM MATEMÁTICA E DIMENSIONAMENTO MECÂNICO**
 
-- ### **3.1 Dimensionamento de Torque (Carga Real de 80 kg)
+- ### **3.1 Dimensionamento de Torque (Carga Real de 80 kg)**
 	Considerando a carga real de uma colmeia cheia com $m = 80\text{ kg}$, coeficiente de atrito de rolamento em guias lineares $\mu = 0{,}02$, e aceleração suave $a = 0{,}2\text{ m/s}^2$:
 	- **3.1.1. Força Total de Tração ($F_{\text{total}}$)**:
 	$$F_{\text{atrito}} = \mu \cdot m \cdot g = 0{,}02 \cdot 80 \cdot 9{,}81 = 15{,}70\text{ N}$$
@@ -85,10 +85,10 @@ O BEE-SAPST une a robótica, a manufatura aditiva e a bioengenharia para transfo
 		$$T_{\text{nominal}} = \frac{F_{\text{total}} \cdot r}{\eta} = \frac{31{,}70 \cdot 0{,}00637}{0{,}90} = 0{,}224\text{ N}\cdot\text{m}$$
 	- **3.1.3. Torque Requerido com Fator de Segurança ($FS = 1{,}5$):**
 		$$T_{\text{requerido}} = T_{\text{nominal}} \cdot 1{,}5 = 0{,}336\text{ N}\cdot\text{m} \quad (3{,}42\text{ kgf}\cdot\text{cm})$$
-- ### **3.2. Estratégia de Teste Acadêmico (NEMA 17 vs. NEMA 23)
+- ### **3.2. Estratégia de Teste Acadêmico (NEMA 17 vs. NEMA 23)**
 	- **Aplicação Final (Campo):** O motor **NEMA 23** (torques de $12$ a $30\text{ kgf}\cdot\text{cm}$) é o especificado para mover a carga real de $80\text{ kg}$ com ampla margem contra travamentos.
 	- **Protótipo Acadêmico (Bancada):** Utiliza-se um motor **NEMA 17** ($4{,}2\text{ kgf}\cdot\text{cm}$), plenamente capaz de validar a cinemática e o firmware sem carga total. A carcaça possui furação universal para ambos.
-- ### **3.3. Cinemática de Movimento Suave
+- ### **3.3. Cinemática de Movimento Suave**
 	Para impedir trancos que estressem as abelhas, a velocidade evolui em rampa trapezoidal controlada via biblioteca `AccelStepper`, limitando a aceleração a $150\text{ passos/s}^2$.
 ### 4. PROJETO MECÂNICO, MATERIAIS E IMPRESSÃO 3D
 - ### 4.1 Diretrizes de Bio-segurança e Materiais
@@ -97,9 +97,9 @@ O BEE-SAPST une a robótica, a manufatura aditiva e a bioengenharia para transfo
 	- **Base do Trilho (ASA/PETG Preto):** Resposta estrutural e imunidade à umidade do solo.
 	- **Amortecedores (TPU Flexível):** Absorção de microvibrações mecânicas.
 	- **Fixação:** Parafusos e porcas exclusivamente em **Aço Inoxidável 304**.
-- ### **4.2 Guias Lineares e Roldanas Industriais
+- ### **4.2 Guias Lineares e Roldanas Industriais**
 	Para impedir o desgaste das peças impressas, a carga vertical de $80\text{ kg}$ é descarregada diretamente nos patins de aço das guias lineares industriais. Os componentes 3D funcionam como o "chassi de arraste" e invólucro de proteção.
-- ### **4.3 Especificações de Manufatura Aditiva
+- ### **4.3 Especificações de Manufatura Aditiva**
 	- **Material da Cúpula e Base:** ASA ou PETG (resistentes a UV e umidade)
 	- **Material dos Coxins e Gaxetas:** TPU (Shore 95A / 85A)
 	- **Altura de Camada:** 0,20 mm
