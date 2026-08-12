@@ -47,15 +47,15 @@ O **MySQL** foi criado originalmente pelos desenvolvedores **Michael "Monty" Wid
 
 - Conceitos Importantes:
 	Para dominar os fundamentos do MySQL e se dar bem na disciplina de Desenvolvimento Integrado de Projeto, os conceitos essenciais que você precisa conhecer são:
-	**1. Arquitetura Relacional e Estrutura**
-		**Banco de Dados Relacional (RDBMS):** Organiza os dados em tabelas compostas por linhas (registros/tuplas) e colunas (campos/atributos) que se relacionam entre si.
-		**Tabelas (Tables):** As estruturas onde os dados são armazenados de fato.
-		**Tipos de Dados (Data Types):** Definem que tipo de informação cada coluna aceita, como `INT` (números inteiros), `VARCHAR` (textos), `DATE/TIMESTAMP` (datas/horários) e `BOOLEAN` (verdadeiro/falso).
-	**2. Integridade e Chaves**
+	- **1. Arquitetura Relacional e Estrutura**
+		- **Banco de Dados Relacional (RDBMS):** Organiza os dados em tabelas compostas por linhas (registros/tuplas) e colunas (campos/atributos) que se relacionam entre si.
+		- **Tabelas (Tables):** As estruturas onde os dados são armazenados de fato.
+		- **Tipos de Dados (Data Types):** Definem que tipo de informação cada coluna aceita, como `INT` (números inteiros), `VARCHAR` (textos), `DATE/TIMESTAMP` (datas/horários) e `BOOLEAN` (verdadeiro/falso).
+	- **2. Integridade e Chaves**
 		- **Chave Primária (Primary Key - PK):** Um identificador único para cada registro na tabela (ex: o `id` de um usuário). Não pode haver dois registros com a mesma PK, nem valores nulos.
 		- **Chave Estrangeira (Foreign Key - FK):** Um campo que conecta uma tabela à chave primária de outra, garantindo a **integridade referencial** entre os dados (ex: o `id_usuario` dentro de uma tabela de `pedidos`).
 		- **Restrições (Constraints):** Regras aplicadas às colunas, como `NOT NULL` (campo obrigatório), `UNIQUE` (não permite valores duplicados) e `DEFAULT` (define valor padrão).
-	**3. Linguagem SQL e Operações**
+	- **3. Linguagem SQL e Operações**
 		- **CRUD:** Acrônimo para as quatro operações fundamentais em qualquer sistema:
 		    - **C**reate (`INSERT`) — Criar dados.
 		    - **R**ead (`SELECT`) — LER/consultar dados.
@@ -63,7 +63,7 @@ O **MySQL** foi criado originalmente pelos desenvolvedores **Michael "Monty" Wid
 		    - **D**elete (`DELETE`) — Apagar dados.
 		- **Filtros e Cláusulas:** Usados para refinar consultas, como `WHERE` (filtrar condições), `ORDER BY` (ordenar resultados) e `GROUP BY` (agrupar dados para cálculos).
 		- **Junções (JOINs):** Comandos (`INNER JOIN`, `LEFT JOIN`, etc.) que permitem combinar dados de duas ou mais tabelas relacionáveis em uma única consulta.
-	**4. Performance e Confiabilidade**
+	- **4. Performance e Confiabilidade**
 		- **Índices (Indexes):** Estruturas internas que aceleram a busca de dados em tabelas grandes (similar ao índice remissivo de um livro).
 		- **Transações e Propriedades ACID:** Mecanismos que garantem que uma série de operações SQL ocorra com total sucesso ou seja completamente cancelada (`ROLLBACK`), mantendo o banco seguro contra falhas.
 
