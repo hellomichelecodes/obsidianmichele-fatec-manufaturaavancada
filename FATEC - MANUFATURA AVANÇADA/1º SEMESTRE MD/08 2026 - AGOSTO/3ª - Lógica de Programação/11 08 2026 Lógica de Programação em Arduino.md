@@ -5,13 +5,7 @@ tags: #LogicaDeProgramaçãoEmArduino #PrimeiroSemestre #Agosto2026
 
 ---
 
-Anotações da Aula:
-
-Conceitos Importantes:
-
-Indicações do Professor:
-
-Conteúdos Extras/ Pesquisa:
+# A AULA SERÁ REAGENDADA DEVIDO A DATA DE COLAÇÃO DE GRAU DOS ALUNOS FORMANDOS.
 
 ---
 

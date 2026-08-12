@@ -25,10 +25,11 @@ O **MySQL** foi criado originalmente pelos desenvolvedores **Michael "Monty" Wid
 	- **Serviços em Nuvem e SaaS:** Armazenamento de dados para plataformas de software como serviço.
 	- **Arquiteturas LAMP:** Componente fundamental da famosa pilha de desenvolvimento web (Linux, Apache, MySQL, PHP/Python/Perl).
 
-**Uso Hoje em Dia** Atualmente, o MySQL é o **banco de dados relacional de código aberto mais popular do mundo**. Ele opera em um modelo híbrido sob a tutela da Oracle (oferecendo uma versão comunitária gratuita sob licença GPL e versões comerciais pagas para corporações). É amplamente utilizado desde servidores locais em pequenos projetos até infraestruturas gerenciadas em nuvem como Amazon RDS, Google Cloud SQL e Azure Database for MySQL.
+**Uso Hoje em Dia** 
+	Atualmente, o MySQL é o **banco de dados relacional de código aberto mais popular do mundo**. Ele opera em um modelo híbrido sob a tutela da Oracle (oferecendo uma versão comunitária gratuita sob licença GPL e versões comerciais pagas para corporações). É amplamente utilizado desde servidores locais em pequenos projetos até infraestruturas gerenciadas em nuvem como Amazon RDS, Google Cloud SQL e Azure Database for MySQL.
 
 **Exemplo Prático de Aplicação**
-- Considere o sistema de cadastro e autenticação de um aplicativo:
+	Considere o sistema de cadastro e autenticação de um aplicativo:
 	- 1. Criação da tabela de usuários
 		
 		CREATE TABLE usuarios (
@@ -38,53 +39,37 @@ O **MySQL** foi criado originalmente pelos desenvolvedores **Michael "Monty" Wid
 	    senha_hash VARCHAR(255) NOT NULL,
 	    criado_em TIMESTAMP DEFAULT CURRENT_TIMESTAMP
 		);
-	-  2. Inserção de um registro no momento do cadastro
+  1. Inserção de um registro no momento do cadastro
 		INSERT INTO usuarios (nome, email, senha_hash) 
 		VALUES ('Ana Silva', 'ana@email.com', 'e10adc3949ba59abbe56e057f20f883e');
 	-  3. Consulta feita pelo aplicativo durante a tela de Login
 		SELECT id, senha_hash FROM usuarios WHERE email = 'ana@email.com';
 
-Conceitos Importantes:
+- Conceitos Importantes:
 	Para dominar os fundamentos do MySQL e se dar bem na disciplina de Desenvolvimento Integrado de Projeto, os conceitos essenciais que você precisa conhecer são:
-	 **Arquitetura Relacional e Estrutura**
+	**1. Arquitetura Relacional e Estrutura**
 		**Banco de Dados Relacional (RDBMS):** Organiza os dados em tabelas compostas por linhas (registros/tuplas) e colunas (campos/atributos) que se relacionam entre si.
 		**Tabelas (Tables):** As estruturas onde os dados são armazenados de fato.
 		**Tipos de Dados (Data Types):** Definem que tipo de informação cada coluna aceita, como `INT` (números inteiros), `VARCHAR` (textos), `DATE/TIMESTAMP` (datas/horários) e `BOOLEAN` (verdadeiro/falso).
-	    
 	**2. Integridade e Chaves**
-	
-	- **Chave Primária (Primary Key - PK):** Um identificador único para cada registro na tabela (ex: o `id` de um usuário). Não pode haver dois registros com a mesma PK, nem valores nulos.
-	    
-	- **Chave Estrangeira (Foreign Key - FK):** Um campo que conecta uma tabela à chave primária de outra, garantindo a **integridade referencial** entre os dados (ex: o `id_usuario` dentro de uma tabela de `pedidos`).
-	    
-	- **Restrições (Constraints):** Regras aplicadas às colunas, como `NOT NULL` (campo obrigatório), `UNIQUE` (não permite valores duplicados) e `DEFAULT` (define valor padrão).
-	    
-	
+		- **Chave Primária (Primary Key - PK):** Um identificador único para cada registro na tabela (ex: o `id` de um usuário). Não pode haver dois registros com a mesma PK, nem valores nulos.
+		- **Chave Estrangeira (Foreign Key - FK):** Um campo que conecta uma tabela à chave primária de outra, garantindo a **integridade referencial** entre os dados (ex: o `id_usuario` dentro de uma tabela de `pedidos`).
+		- **Restrições (Constraints):** Regras aplicadas às colunas, como `NOT NULL` (campo obrigatório), `UNIQUE` (não permite valores duplicados) e `DEFAULT` (define valor padrão).
 	**3. Linguagem SQL e Operações**
-	
-	- **CRUD:** Acrônimo para as quatro operações fundamentais em qualquer sistema:
-	    
-	    - **C**reate (`INSERT`) — Criar dados.
-	        
-	    - **R**ead (`SELECT`) — LER/consultar dados.
-	        
-	    - **U**pdate (`UPDATE`) — Atualizar dados existentes.
-	        
-	    - **D**elete (`DELETE`) — Apagar dados.
-	        
-	- **Filtros e Cláusulas:** Usados para refinar consultas, como `WHERE` (filtrar condições), `ORDER BY` (ordenar resultados) e `GROUP BY` (agrupar dados para cálculos).
-	    
-	- **Junções (JOINs):** Comandos (`INNER JOIN`, `LEFT JOIN`, etc.) que permitem combinar dados de duas ou mais tabelas relacionáveis em uma única consulta.
-	    
-	
+		- **CRUD:** Acrônimo para as quatro operações fundamentais em qualquer sistema:
+		    - **C**reate (`INSERT`) — Criar dados.
+		    - **R**ead (`SELECT`) — LER/consultar dados.
+		    - **U**pdate (`UPDATE`) — Atualizar dados existentes.
+		    - **D**elete (`DELETE`) — Apagar dados.
+		- **Filtros e Cláusulas:** Usados para refinar consultas, como `WHERE` (filtrar condições), `ORDER BY` (ordenar resultados) e `GROUP BY` (agrupar dados para cálculos).
+		- **Junções (JOINs):** Comandos (`INNER JOIN`, `LEFT JOIN`, etc.) que permitem combinar dados de duas ou mais tabelas relacionáveis em uma única consulta.
 	**4. Performance e Confiabilidade**
-	
-	- **Índices (Indexes):** Estruturas internas que aceleram a busca de dados em tabelas grandes (similar ao índice remissivo de um livro).
-	    
-	- **Transações e Propriedades ACID:** Mecanismos que garantem que uma série de operações SQL ocorra com total sucesso ou seja completamente cancelada (`ROLLBACK`), mantendo o banco seguro contra falhas.
+		- **Índices (Indexes):** Estruturas internas que aceleram a busca de dados em tabelas grandes (similar ao índice remissivo de um livro).
+		- **Transações e Propriedades ACID:** Mecanismos que garantem que uma série de operações SQL ocorra com total sucesso ou seja completamente cancelada (`ROLLBACK`), mantendo o banco seguro contra falhas.
 
 Conteúdos Extras/ Pesquisa:
+- Vídeo aula: https://www.youtube.com/watch?v=Ofktsne-utM
 
 ---
 
-Resumo:
+Resumo: O MySQL é um sistema de gerenciamento de banco de dados relacional lançado em 1995 por desenvolvedores nórdicos. Ele organiza dados em tabelas estruturadas usando a linguagem SQL. Destaca-se pela rapidez, simplicidade e gratuidade, tornando-se a espinha dorsal de boa parte da Web moderna (usado por gigantes como Facebook, Twitter/X e Netflix), sendo mantido hoje pela Oracle.
