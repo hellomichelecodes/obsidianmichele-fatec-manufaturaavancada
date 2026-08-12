@@ -9,8 +9,6 @@ Anotações da Aula:
 
 Conceitos Importantes:
 
-Indicações do Professor:
-
 Conteúdos Extras/ Pesquisa:
 
 ---
