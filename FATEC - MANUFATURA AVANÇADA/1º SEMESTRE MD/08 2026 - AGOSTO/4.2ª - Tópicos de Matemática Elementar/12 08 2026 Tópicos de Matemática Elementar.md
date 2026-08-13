@@ -28,9 +28,7 @@ tags: #TopicosDeMatematicaElementar #PrimeiroSemestre #Agosto2026
 				4. **Potência com expoente zero:** Todo número elevado a zero é igual a 1 ($a^0 = 1$, para $a \neq 0$).
 				5. **Potência com expoente 1:** Todo número elevado a 1 é igual a ele mesmo ($a^1 = a$).
 ### Conceitos Importantes:
-
 - **Base negativa:** Se o expoente for par, o resultado é positivo; se for ímpar, o resultado mantém o sinal negativo da base.
-    
 - **Expoente negativo:** Inverte-se a base para tornar o expoente positivo ($a^{-n} = \frac{1}{a^n}$).
 	- ### Expressões numéricas
 		- #### Ordem dos Símbolos de Agrupamento
@@ -43,11 +41,6 @@ tags: #TopicosDeMatematicaElementar #PrimeiroSemestre #Agosto2026
 				1. **Potenciação e Radiciação** (exponentes e raízes)
 				2. **Multiplicação e Divisão** (resolvidas na ordem em que aparecem, da esquerda para a direita)
 				3. **Adição e Subtração** (resolvidas na ordem em que aparecem, da esquerda para a direita)
-
-- ## Conceitos Importantes:
-	Em expressões numéricas: a multiplicação não tem prioridade sobre a divisão. Se ambas aparecerem juntas, resolva primeiro a que estiver mais à esquerda!
-
-- ## Indicações do Professor:
 
 - ## Conteúdos Extras/ Pesquisa:
 	- Exercícios de expressões numéricas divididos por nível de dificuldade para você praticar:
