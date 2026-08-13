@@ -7,7 +7,31 @@ tags: #TopicosDeMatematicaElementar #PrimeiroSemestre #Agosto2026
 
 - ## Anotações da Aula:
 	- ### Frações
+		- #### Conceito Básico
+			Uma fração representa a divisão ou partes de um todo. É expressa na forma $\frac{a}{b}$ (onde $a$ é o numerador e $b$ é o denominador, com $b \neq 0$).
+		- #### Operações com Frações
+			1. **Adição e Subtração:**
+			    - **Mesmo denominador:** Mantém-se o denominador e somam-se/subtraem-se os numeradores.
+			    - **Denominadores diferentes:** Encontra-se o MMC (Mínimo Múltiplo Comum) dos denominadores para equivaler as frações antes de somar ou subtrair.
+			2. **Multiplicação:** Multiplica-se numerador por numerador e denominador por denominador ($\frac{a}{b} \times \frac{c}{d} = \frac{a \times c}{b \times d}$).
+			3. **Divisão:** Mantém-se a primeira fração e multiplica-se pelo inverso da segunda ($\frac{a}{b} \div \frac{c}{d} = \frac{a}{b} \times \frac{d}{c}$).
+		- #### Conceitos Importantes:
+			- **Simplificação:** Dividir o numerador e o denominador pelo mesmo número para obter a forma irredutível da fração.
+			- Não existe divisão por zero no denominador.
 	- ### Potências
+		- #### Conceito Básico
+			A potenciação é a multiplicação de um número (base) por ele mesmo várias vezes, conforme indicado pelo expoente: $a^n = a \times a \times \dots \times a$ ($n$ vezes)
+		- #### Propriedades Principais
+				1. **Multiplicação de potências de mesma base:** Conserva a base e soma os expoentes ($a^m \times a^n = a^{m+n}$).
+				2. **Divisão de potências de mesma base:** Conserva a base e subtrai os expoentes ($a^m \div a^n = a^{m-n}$).
+				3. **Potência de potência:** Conserva a base e multiplica os expoentes ($(a^m)^n = a^{m \times n}$).
+				4. **Potência com expoente zero:** Todo número elevado a zero é igual a 1 ($a^0 = 1$, para $a \neq 0$).
+				5. **Potência com expoente 1:** Todo número elevado a 1 é igual a ele mesmo ($a^1 = a$).
+### Conceitos Importantes:
+
+- **Base negativa:** Se o expoente for par, o resultado é positivo; se for ímpar, o resultado mantém o sinal negativo da base.
+    
+- **Expoente negativo:** Inverte-se a base para tornar o expoente positivo ($a^{-n} = \frac{1}{a^n}$).
 	- ### Expressões numéricas
 		- #### Ordem dos Símbolos de Agrupamento
 			Se a expressão tiver símbolos de agrupamento, resolva **de dentro para fora**:
