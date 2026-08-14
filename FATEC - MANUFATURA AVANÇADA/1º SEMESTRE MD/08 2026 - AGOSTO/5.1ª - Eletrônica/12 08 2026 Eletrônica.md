@@ -14,9 +14,10 @@ tags: #Eletronica #PrimeiroSemestre #Agosto2026
 				**$I$: Corrente elétrica** — Medida em **Ampères (A)**. É o fluxo real de carga elétrica por segundo.
 				**$R$: Resistência elétrica** — Medida em **Ohms ($\Omega$)**. É a oposição do material à passagem da corrente
 ## Simulador da Lei de Ohm
-Acesse o simulador interativo de circuitos em tempo real:
-	[Abrir Simulador Online (GitHub Pages)](https://hellomichelecodes.github.io/obsidianmichele-fatec-manufaturaavancada/FATEC%20-%20MANUFATURA%20AVAN%C3%87ADA/indexSimuladorDeOhm.html)
-[[indexSimuladorDeOhm.html|Abrir Arquivo Local]]
+
+[Abrir simulador da Lei de Ohm](../../../../Simuladores/lei-ohm.html)
+
+<iframe src="simuladores/lei-ohm.html" width="100%" height="700" frameborder="0"></iframe>
 
 Conceitos Importantes:
 
