@@ -5,7 +5,18 @@ tags: #Eletronica #PrimeiroSemestre #Agosto2026
 
 ---
 
-Anotações da Aula:
+- ## Anotações da Aula:
+	- ### Primeira Lei de Ohm
+		 A Primeira Lei de Ohm estabelece que a corrente elétrica que atravessa um condutor ôhmico é diretamente proporcional à tensão (voltagem) aplicada e inversamente proporcional à sua resistência elétrica.
+			 A Fórmula Fundamental é: V = I . R
+			 Onde cada grandeza representa:
+				**$V$ (ou $U$): Tensão / Voltagem** — Medida em **Volts (V)**. É a "força" que impulsiona os elétrons.
+				**$I$: Corrente elétrica** — Medida em **Ampères (A)**. É o fluxo real de carga elétrica por segundo.
+				**$R$: Resistência elétrica** — Medida em **Ohms ($\Omega$)**. É a oposição do material à passagem da corrente
+	- ### Simulador da Lei de Ohm
+		Acesse o simulador interativo de circuitos em tempo real:
+		**[Abrir Simulador Online (GitHub Pages)](https://seu-usuario.github.io/nome-do-repo/1º%20SEMESTRE%20MD/08%202026%20-%20AGOSTO/5.1ª%20-%20Eletrônica/index.html)**
+		**[Abrir Arquivo Local](index.html)**
 
 Conceitos Importantes:
 
