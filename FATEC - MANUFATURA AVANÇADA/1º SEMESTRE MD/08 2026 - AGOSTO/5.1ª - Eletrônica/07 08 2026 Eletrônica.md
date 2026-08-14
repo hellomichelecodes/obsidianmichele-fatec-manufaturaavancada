@@ -5,8 +5,7 @@ tags: #Eletronica #PrimeiroSemestre #Agosto2026
 
 ---
 
-Anotações da Aula:
-- Álgebra Booleana
+- # Álgebra Booleana
   A Álgebra Booleana é o ramo da matemática e da lógica formal que manipula variáveis capazes de assumir apenas dois valores: Verdadeiro (1) ou Falso (1).
 	- Data de Origem
 		- Ano de Criação: 1854
@@ -27,8 +26,7 @@ Anotações da Aula:
 		- Bancos de Dados: Filtragem de registros em consultas SQL usando condições combinadas;
 		- Sistemas de Controle: Automação industrial, robótica e sistemas de segurança acionados por combinações de sensores;
 
-Conceitos Importantes:
-- Aprofundamento de Álgebra Booleana: Portar lógicas
+- # Portar lógicas
 	- Portas lógicas são os componentes físicos básicos (construídos a partir de transistores) que implementam as operações da Álgebra Booleana em circuitos eletrônicos. Elas recebem sinais elétricos de entrada (alta tensão para $1$, baixa tensão para $0$) e produzem uma única saída lógica.
 	- Os principais conjuntos estudos serão:
 		- Porta AND (E), circuito em série. Para que a corrente passe (saída 1), todas as chaves de entrada precisam estar fechadas (em 1). Se qualquer entrada for $0$, a saída será 0:
@@ -44,17 +42,16 @@ Conceitos Importantes:
 		- Porta XOR (OU Exclusivo), analisa a diferença entre as entradas. Se os valores das entradas forem diferentes entre si, a saída será 1. Se os valores forem iguais (ambos 0 ou ambos 1), a saída será 0:
 		  ![[Pasted image 20260808105955.png]]
 
-Indicações do Professor:
-- Atenção aos exercícios do TEAMS;
-- Comprar calculadora cientifica;
-- Decorar o Pai Nosso;
+- # Indicações do Professor:
+	- Atenção aos exercícios do TEAMS;
+	- Comprar calculadora cientifica;
+	- Decorar o Pai Nosso;
 
-Conteúdos Extras/ Pesquisa:
-- Álgebra Booleana
-	- Livro: Elementos de Eletrônica Digital, de Ivan V. Idoeta e Antonio V. Capuano;
-	- Vídeo: Sistemas Digitais, da UNIVESP (Universidade Virtual do Estado de SP). Aulas completas cobrindo Álgebra Booleana, Teoremas de De Morgan, Tabela Verdade e Mapas de Veitch-Karnaugh.
-	- Vídeo: Sistemas Digitais, do Curso em Vídeo (Prof. Gustavo Guanabara. Explicações visuais e bem dinâmicas focadas em lógica binária, portas lógicas e fundamentos para programação.
-
+- # Conteúdos Extras/ Pesquisa:
+	- Álgebra Booleana
+		- Livro: Elementos de Eletrônica Digital, de Ivan V. Idoeta e Antonio V. Capuano;
+		- Vídeo: Sistemas Digitais, da UNIVESP (Universidade Virtual do Estado de SP). Aulas completas cobrindo Álgebra Booleana, Teoremas de De Morgan, Tabela Verdade e Mapas de Veitch-Karnaugh.
+		- Vídeo: Sistemas Digitais, do Curso em Vídeo (Prof. Gustavo Guanabara. Explicações visuais e bem dinâmicas focadas em lógica binária, portas lógicas e fundamentos para programação.
 
 ---
 

@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FATEC - MANUFATURA AVANÇADA/1º SEMESTRE MD/08 2026 - AGOSTO/5.1ª - Eletrônica/12 08 2026 Eletrônica.md",
+                "file": "FATEC - MANUFATURA AVANÇADA/1º SEMESTRE MD/08 2026 - AGOSTO/6ª - Interpretação e Produção de Textos/07 08 2026 Interpretação e Produção de Textos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "12 08 2026 Eletrônica"
+              "title": "07 08 2026 Interpretação e Produção de Textos"
             }
           }
         ],
@@ -98,7 +98,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 440.5
+    "width": 410.5
   },
   "right": {
     "id": "01306a296a851a55",
@@ -207,33 +207,37 @@
   },
   "active": "000795dd37534254",
   "lastOpenFiles": [
+    "FATEC - MANUFATURA AVANÇADA/1º SEMESTRE MD/08 2026 - AGOSTO/6ª - Interpretação e Produção de Textos/14 08 2026 Interpretação e Produção de Textos.md",
+    "FATEC - MANUFATURA AVANÇADA/1º SEMESTRE MD/08 2026 - AGOSTO/6ª - Interpretação e Produção de Textos/07 08 2026 Interpretação e Produção de Textos.md",
+    "FATEC - MANUFATURA AVANÇADA/1º SEMESTRE MD/08 2026 - AGOSTO/5.2ª - Inglês I/12 08 2026 Inglês I.md",
+    "FATEC - MANUFATURA AVANÇADA/1º SEMESTRE MD/08 2026 - AGOSTO/5.2ª - Inglês I/06 08 2026 Inglês I.md",
+    "FATEC - MANUFATURA AVANÇADA/1º SEMESTRE MD/08 2026 - AGOSTO/5.1ª - Eletrônica/06 08 2026 Eletrônica.md",
+    "FATEC - MANUFATURA AVANÇADA/1º SEMESTRE MD/08 2026 - AGOSTO/4.2ª - Tópicos de Matemática Elementar/12 08 2026 Tópicos de Matemática Elementar.md",
+    "FATEC - MANUFATURA AVANÇADA/1º SEMESTRE MD/08 2026 - AGOSTO/4.2ª - Tópicos de Matemática Elementar/05 08 2026 Tópicos de Matemática Elementar.md",
+    "FATEC - MANUFATURA AVANÇADA/1º SEMESTRE MD/08 2026 - AGOSTO/4.1ª - Tecnologia Mecânica/12 08 2026 Técnologia Mecânica.md",
+    "FATEC - MANUFATURA AVANÇADA/1º SEMESTRE MD/08 2026 - AGOSTO/4.1ª - Tecnologia Mecânica/05 08 2026 Técnologia Mecânica.md",
+    "FATEC - MANUFATURA AVANÇADA/1º SEMESTRE MD/08 2026 - AGOSTO/3ª - Lógica de Programação/11 08 2026 Lógica de Programação em Arduino.md",
+    "FATEC - MANUFATURA AVANÇADA/1º SEMESTRE MD/08 2026 - AGOSTO/3ª - Lógica de Programação/04 08 2026 Lógica de Programação em Arduino.md",
+    "FATEC - MANUFATURA AVANÇADA/1º SEMESTRE MD/08 2026 - AGOSTO/2ª - Desenvolvimento Integrado do Produto I/17 08 2026 Desenvolvimento Integrado do Produto I.md",
+    "FATEC - MANUFATURA AVANÇADA/1º SEMESTRE MD/08 2026 - AGOSTO/2ª - Desenvolvimento Integrado do Produto I/10 08 2026 Desenvolvimento Integrado do Produto I.md",
+    "FATEC - MANUFATURA AVANÇADA/1º SEMESTRE MD/08 2026 - AGOSTO/2ª - Desenvolvimento Integrado do Produto I/03 08 2026 Desenvolvimento Integrado do Produto I.md",
+    "FATEC - MANUFATURA AVANÇADA/1º SEMESTRE MD/08 2026 - AGOSTO/5.1ª - Eletrônica/12 08 2026 Eletrônica.md",
+    "FATEC - MANUFATURA AVANÇADA/1º SEMESTRE MD/08 2026 - AGOSTO/5.1ª - Eletrônica/07 08 2026 Eletrônica.md",
     "FATEC - MANUFATURA AVANÇADA/Simuladores/lei-ohm.html.md",
     "FATEC - MANUFATURA AVANÇADA/Simuladores/lei-ohm.html",
-    "FATEC - MANUFATURA AVANÇADA/1º SEMESTRE MD/08 2026 - AGOSTO/5.1ª - Eletrônica/12 08 2026 Eletrônica.md",
     "FATEC - MANUFATURA AVANÇADA/Simuladores",
     "FATEC - MANUFATURA AVANÇADA/indexSimuladorDeOhm.html",
     "FATEC - MANUFATURA AVANÇADA/indexSimuladorDeOhm.html.md",
     "FATEC - MANUFATURA AVANÇADA/1º SEMESTRE MD/08 2026 - AGOSTO/5.1ª - Eletrônica/Imagens e Simuladores/Pasted image 20260808105617.png",
     "Pasted image 20260814085919.png",
-    "FATEC - MANUFATURA AVANÇADA/1º SEMESTRE MD/08 2026 - AGOSTO/4.2ª - Tópicos de Matemática Elementar/12 08 2026 Tópicos de Matemática Elementar.md",
-    "FATEC - MANUFATURA AVANÇADA/1º SEMESTRE MD/08 2026 - AGOSTO/4.1ª - Tecnologia Mecânica/12 08 2026 Técnologia Mecânica.md",
-    "FATEC - MANUFATURA AVANÇADA/1º SEMESTRE MD/08 2026 - AGOSTO/4.2ª - Tópicos de Matemática Elementar/05 08 2026 Tópicos de Matemática Elementar.md",
-    "FATEC - MANUFATURA AVANÇADA/1º SEMESTRE MD/08 2026 - AGOSTO/4.1ª - Tecnologia Mecânica/05 08 2026 Técnologia Mecânica.md",
     "FATEC - MANUFATURA AVANÇADA/1º SEMESTRE MD/08 2026 - AGOSTO/3ª - Lógica de Programação/25 08 2026 Lógica de Programação em Arduino.md",
     "FATEC - MANUFATURA AVANÇADA/1º SEMESTRE MD/08 2026 - AGOSTO/3ª - Lógica de Programação/18 08 2026 Lógica de Programação em Arduino.md",
-    "FATEC - MANUFATURA AVANÇADA/1º SEMESTRE MD/08 2026 - AGOSTO/3ª - Lógica de Programação/11 08 2026 Lógica de Programação em Arduino.md",
-    "FATEC - MANUFATURA AVANÇADA/1º SEMESTRE MD/08 2026 - AGOSTO/3ª - Lógica de Programação/04 08 2026 Lógica de Programação em Arduino.md",
     "FATEC - MANUFATURA AVANÇADA/1º SEMESTRE MD/08 2026 - AGOSTO/2ª - Desenvolvimento Integrado do Produto I/31 08 2026 Desenvolvimento Integrado do Produto I.md",
     "FATEC - MANUFATURA AVANÇADA/1º SEMESTRE MD/08 2026 - AGOSTO/2ª - Desenvolvimento Integrado do Produto I/24 08 2026 Desenvolvimento Integrado do Produto I.md",
-    "FATEC - MANUFATURA AVANÇADA/1º SEMESTRE MD/08 2026 - AGOSTO/2ª - Desenvolvimento Integrado do Produto I/17 08 2026 Desenvolvimento Integrado do Produto I.md",
-    "FATEC - MANUFATURA AVANÇADA/1º SEMESTRE MD/08 2026 - AGOSTO/2ª - Desenvolvimento Integrado do Produto I/10 08 2026 Desenvolvimento Integrado do Produto I.md",
-    "FATEC - MANUFATURA AVANÇADA/1º SEMESTRE MD/08 2026 - AGOSTO/2ª - Desenvolvimento Integrado do Produto I/03 08 2026 Desenvolvimento Integrado do Produto I.md",
     "FATEC - MANUFATURA AVANÇADA/1º SEMESTRE MD/IDEIAS PARA PROJETOS DIP 1 SEMESTRE/RELATÓRIO TÉCNICO BEE-SAPST.md",
     "FATEC - MANUFATURA AVANÇADA/1º SEMESTRE MD/IDEIAS PARA PROJETOS DIP 1 SEMESTRE/RELATÓRIO TÉCNICO ROBÔ REMOVEDOR DE PLANTAS INVASORAS.md",
     "FATEC - MANUFATURA AVANÇADA/1º SEMESTRE MD/IDEIAS PARA PROJETOS DIP 1 SEMESTRE/RELATÓRIO TÉCNICO ROBÔ MONITOR DE QUEIMADAS.md",
     "FATEC - MANUFATURA AVANÇADA/1º SEMESTRE MD/IDEIAS PARA PROJETOS DIP 1 SEMESTRE/RELATÓRIO TÉCNICO ROBÔ MONITOR DE ÁRVORES.md",
-    "FATEC - MANUFATURA AVANÇADA/1º SEMESTRE MD/IDEIAS PARA PROJETOS DIP 1 SEMESTRE/RELATÓRIO TÉCNICO ROBÔ IDENTIFICADOR DE ESPÉCIES.md",
-    "RELATÓRIO TÉCNICO ROBÔ MONITOR DE QUEIMADAS/Sem título.md",
     "Sem título/desktop.ini",
     "RELATÓRIO TÉCNICO ROBÔ MONITOR DE QUEIMADAS",
     "FATEC - MANUFATURA AVANÇADA/1º SEMESTRE MD/IDEIAS PARA PROJETOS DIP 1 SEMESTRE/RELATÓRIO TÉCNICO ROBÔ MONITOR DE QUEIMADAS",
@@ -242,15 +246,12 @@
     "FATEC - MANUFATURA AVANÇADA/1º-semestre HTML/09-2026-setembro/6ª-interpretação-e-produção-de-textos/18-09-2026-interpretação-e-produção-de-textos.html",
     "FATEC - MANUFATURA AVANÇADA/1º-semestre HTML/09-2026-setembro/6ª-interpretação-e-produção-de-textos/04-09-2026-interpretação-e-produção-de-textos.html",
     "FATEC - MANUFATURA AVANÇADA/1º-semestre HTML/09-2026-setembro/6ª-interpretação-e-produção-de-textos/25-09-2026-interpretação-e-produção-de-textos.html",
-    "FATEC - MANUFATURA AVANÇADA/1º SEMESTRE/PROJETO BEE-SAPST - DIP 1 SEMESTRE/RELATÓRIO TÉCNICO DE PROJETO - SISTEMA AUTOMATIZADO DE POLINIZAÇÃO SUSTENTÁVEL SOBRE TRILHOS (BEE-SAPST).md",
     "FATEC - MANUFATURA AVANÇADA/1º SEMESTRE MD/08 2026 - AGOSTO/7.1ª - Desenho Técnico/Apostilas/Mapa Mental de Ciguras Planas.PNG",
     "FATEC - MANUFATURA AVANÇADA/1º SEMESTRE MD/08 2026 - AGOSTO/5.1ª - Eletrônica/Imagens e Simuladores/Pasted image 20260808105955.png",
     "FATEC - MANUFATURA AVANÇADA/1º SEMESTRE MD/08 2026 - AGOSTO/5.1ª - Eletrônica/Imagens e Simuladores/Pasted image 20260808105830.png",
     "FATEC - MANUFATURA AVANÇADA/1º SEMESTRE MD/08 2026 - AGOSTO/5.1ª - Eletrônica/Imagens e Simuladores/Pasted image 20260808105735.png",
     "FATEC - MANUFATURA AVANÇADA/1º SEMESTRE MD/08 2026 - AGOSTO/5.1ª - Eletrônica/Imagens e Simuladores/Pasted image 20260808105458.png",
     "FATEC - MANUFATURA AVANÇADA/1º SEMESTRE MD/08 2026 - AGOSTO/5.1ª - Eletrônica/Imagens e Simuladores/Pasted image 20260808105356.png",
-    "FATEC - MANUFATURA AVANÇADA/1º SEMESTRE MD/IDEIAS PARA PROJETOS DIP 1 SEMESTRE/Imagens/Fluxograma para Máquina de Estados Finitos (FSM).png",
-    "FATEC - MANUFATURA AVANÇADA/1º SEMESTRE MD/08 2026 - AGOSTO/7.1ª - Desenho Técnico/21 08 2026 Desenho Técnico.md",
-    "FATEC - MANUFATURA AVANÇADA/1º SEMESTRE MD/08 2026 - AGOSTO/7.1ª - Desenho Técnico/27 08 2026 Desenho Técnico.md"
+    "FATEC - MANUFATURA AVANÇADA/1º SEMESTRE MD/IDEIAS PARA PROJETOS DIP 1 SEMESTRE/Imagens/Fluxograma para Máquina de Estados Finitos (FSM).png"
   ]
 }

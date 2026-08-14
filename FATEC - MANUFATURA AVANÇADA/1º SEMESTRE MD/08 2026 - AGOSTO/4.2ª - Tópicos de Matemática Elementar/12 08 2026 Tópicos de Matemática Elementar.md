@@ -4,9 +4,8 @@ Semestre: 1º
 tags: #TopicosDeMatematicaElementar #PrimeiroSemestre #Agosto2026
 
 ---
-
-- ## Anotações da Aula:
-	- ### Frações
+- # Anotações da Aula:
+	- ## Frações
 		- #### Conceito Básico
 			Uma fração representa a divisão ou partes de um todo. É expressa na forma $\frac{a}{b}$ (onde $a$ é o numerador e $b$ é o denominador, com $b \neq 0$).
 		- #### Operações com Frações
@@ -18,7 +17,7 @@ tags: #TopicosDeMatematicaElementar #PrimeiroSemestre #Agosto2026
 		- #### Conceitos Importantes:
 			- **Simplificação:** Dividir o numerador e o denominador pelo mesmo número para obter a forma irredutível da fração.
 			- Não existe divisão por zero no denominador.
-	- ### Potências
+	- ## Potências
 		- #### Conceito Básico
 			A potenciação é a multiplicação de um número (base) por ele mesmo várias vezes, conforme indicado pelo expoente: $a^n = a \times a \times \dots \times a$ ($n$ vezes)
 		- #### Propriedades Principais
@@ -27,22 +26,21 @@ tags: #TopicosDeMatematicaElementar #PrimeiroSemestre #Agosto2026
 				3. **Potência de potência:** Conserva a base e multiplica os expoentes ($(a^m)^n = a^{m \times n}$).
 				4. **Potência com expoente zero:** Todo número elevado a zero é igual a 1 ($a^0 = 1$, para $a \neq 0$).
 				5. **Potência com expoente 1:** Todo número elevado a 1 é igual a ele mesmo ($a^1 = a$).
-### Conceitos Importantes:
-- **Base negativa:** Se o expoente for par, o resultado é positivo; se for ímpar, o resultado mantém o sinal negativo da base.
-- **Expoente negativo:** Inverte-se a base para tornar o expoente positivo ($a^{-n} = \frac{1}{a^n}$).
-	- ### Expressões numéricas
-		- #### Ordem dos Símbolos de Agrupamento
-			Se a expressão tiver símbolos de agrupamento, resolva **de dentro para fora**:
-			1. **Parênteses** $( )$
-			2. **Colchetes** $[ ]$
-			3. **Chaves** $\{ \}$
-		- #### Ordem das Operações Matemáticas
-			Dentro de cada nível de agrupamento (ou em expressões sem símbolos), siga a hierarquia das operações:
-				1. **Potenciação e Radiciação** (exponentes e raízes)
-				2. **Multiplicação e Divisão** (resolvidas na ordem em que aparecem, da esquerda para a direita)
-				3. **Adição e Subtração** (resolvidas na ordem em que aparecem, da esquerda para a direita)
-
-- ## Conteúdos Extras/ Pesquisa:
+- # Conceitos Importantes:
+	- **Base negativa:** Se o expoente for par, o resultado é positivo; se for ímpar, o resultado mantém o sinal negativo da base.
+	- **Expoente negativo:** Inverte-se a base para tornar o expoente positivo ($a^{-n} = \frac{1}{a^n}$).
+		- ### Expressões numéricas
+			- #### Ordem dos Símbolos de Agrupamento
+				Se a expressão tiver símbolos de agrupamento, resolva **de dentro para fora**:
+				1. **Parênteses** $( )$
+				2. **Colchetes** $[ ]$
+				3. **Chaves** $\{ \}$
+			- #### Ordem das Operações Matemáticas
+				Dentro de cada nível de agrupamento (ou em expressões sem símbolos), siga a hierarquia das operações:
+					1. **Potenciação e Radiciação** (exponentes e raízes)
+					2. **Multiplicação e Divisão** (resolvidas na ordem em que aparecem, da esquerda para a direita)
+					3. **Adição e Subtração** (resolvidas na ordem em que aparecem, da esquerda para a direita)
+- # Conteúdos Extras/ Pesquisa:
 	- Exercícios de expressões numéricas divididos por nível de dificuldade para você praticar:
 		Fáceis (Para aquecer)
 		1. $12 + 5 \times 3 - 8$
@@ -70,8 +68,5 @@ tags: #TopicosDeMatematicaElementar #PrimeiroSemestre #Agosto2026
 		- **8.** $25$
 		- **9.** $50$
 		- **10.** $30$
-
 ---
-
-- ## Resumo:
-	Uma expressão numérica é uma sequência de operações matemáticas que deve ser resolvida seguindo uma ordem estrita para garantir o resultado correto: primeiro resolve-se o que está dentro dos parênteses, colchetes e chaves (de dentro para fora) e, quanto às operações, calcula-se na sequência as potências e raízes, depois multiplicações e divisões (na ordem em que aparecerem, da esquerda para a direita) e, por fim, as adições e subtrações.
+-  Resumo: uma expressão numérica é uma sequência de operações matemáticas que deve ser resolvida seguindo uma ordem estrita para garantir o resultado correto: primeiro resolve-se o que está dentro dos parênteses, colchetes e chaves (de dentro para fora) e, quanto às operações, calcula-se na sequência as potências e raízes, depois multiplicações e divisões (na ordem em que aparecerem, da esquerda para a direita) e, por fim, as adições e subtrações.

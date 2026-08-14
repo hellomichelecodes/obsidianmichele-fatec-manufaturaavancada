@@ -10,12 +10,4 @@ Anotações da Aula:
 - Dinâmica de entrevista entre os alunos
 - Análise de perfil dos alunos
 
-Conceitos Importantes:
-
-Indicações do Professor:
-
-Conteúdos Extras/ Pesquisa:
-
 ---
-
-Resumo:
