@@ -1,5 +1,6 @@
 > #DesenvolvimentoIntegradoDoProdutoI #Outubro2026
 > > [[05 10  2026 Desenvolvimento Integrado do Produto I]]
+> > [[12 10  2026 Desenvolvimento Integrado do Produto I]]
 > > [[19 10 2026 Desenvolvimento Integrado do Produto I]]
 > > [[26 10 2026 Desenvolvimento Integrado do Produto I]]
 > #LogicaDeProgramaçãoEmArduino #Outubro2026
@@ -15,6 +16,7 @@
 > > [[07 10 2026 Tópicos de Matemática Elementar]]
 > > [[14 10 2026 Tópicos de Matemática Elementar]]
 > > [[21 10 2026 Tópicos de Matemática Elementar]]
+> > [[28 10 2026 Tópicos de Matemática Elementar]]
 > #InglesI #Outubro2026
 > >[[01 10 2026 Inglês I]]
 > >[[08 10 2026 Inglês I]]
