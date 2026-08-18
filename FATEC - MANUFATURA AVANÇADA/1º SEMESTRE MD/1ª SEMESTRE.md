@@ -3,7 +3,4 @@
 [[10 2026 - OUTUBRO]]
 [[11 2026 - NOVEMBRO]]
 [[12 2026 - DEZEMBRO]]
-
-
-[[Michele - Atividade 1 - DIP 1º SEMESTRE]]
-[[Ivan  -Atividade 1 -DIP 1º SEMESTRE]]
+[[GUIA IDEIAS PARA PROJETOS DIP 1 SEMESTRE]]

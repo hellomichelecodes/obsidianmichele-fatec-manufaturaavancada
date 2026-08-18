@@ -20,10 +20,10 @@
 > > [[25 11 2026 Tópicos de Matemática Elementar]]
 > #Eletronica #Novembro2026
 > #InglesI #Novembro2026
-> > [[05 11 2026 Inglês I]]
-> > [[12 11 2026 Inglês I]]
+> > [[04 11 2026 Inglês I]]
+> > [[25 11 2026 Inglês I]]
 > > [[19 11 2026 Inglês I]]
-> > [[26 11 2026 Inglês I]]
+> > [[18 11 2026 Inglês I]]
 > #InterpretaçaoEProduçaoDeTextos #Novembro2026
 > > [[06 11 2026 Interpretaçao e Produçao de Textos]]
 > > [[13 11 2026 Interpretaçao e Produçao de Textos]]
