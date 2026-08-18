@@ -19,17 +19,13 @@
 > > [[18 11 2026 Tópicos de Matemática Elementar]]
 > > [[25 11 2026 Tópicos de Matemática Elementar]]
 > #Eletronica #Novembro2026
-> > [[05 11 2026 Eletrônica]]
-> > [[12 11 2026 Eletrônica]]
-> > [[19 11 2026 Eletrônica]]
-> > [[26 11 2026 Eletrônica]]
 > #InglesI #Novembro2026
 > > [[05 11 2026 Inglês I]]
 > > [[12 11 2026 Inglês I]]
 > > [[19 11 2026 Inglês I]]
 > > [[26 11 2026 Inglês I]]
 > #InterpretaçaoEProduçaoDeTextos #Novembro2026
-> >[[04 09 2026 Interpretação e Produção de Textos]]
-> >[[11 09 2026 Interpretação e Produção de Textos]]
-> >[[18 09 2026 Interpretação e Produção de Textos]]
-> >[[25 09 2026 Interpretação e Produção de Textos]]
+> > [[06 11 2026 Interpretaçao e Produçao de Textos]]
+> > [[13 11 2026 Interpretaçao e Produçao de Textos]]
+> >[[20 11 2026 Interpretaçao e Produçao de Textos]]
+> >[[27 11 2026 Interpretaçao e Produçao de Textos]]
