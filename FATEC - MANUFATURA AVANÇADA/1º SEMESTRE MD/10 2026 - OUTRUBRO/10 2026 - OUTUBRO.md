@@ -15,12 +15,6 @@
 > > [[07 10 2026 Tópicos de Matemática Elementar]]
 > > [[14 10 2026 Tópicos de Matemática Elementar]]
 > > [[21 10 2026 Tópicos de Matemática Elementar]]
-> #Eletronica #Outubro2026
-> > [[01 10 2026 Eletrônica]]
-> > [[08 10 2026 Eletrônica]]
-> > [[15 10 2026 Eletrônica]]
-> > [[22 10 2026 Eletrônica]]
-> > [[29 10 2026 Eletrônica]]
 > #InglesI #Outubro2026
 > >[[01 10 2026 Inglês I]]
 > >[[08 10 2026 Inglês I]]
@@ -33,15 +27,3 @@
 > >[[16 10 2026 Interpretação e Produção de Textos]]
 > >[[23 10 2026 Interpretação e Produção de Textos]]
 > >[[30 10 2026 Interpretação e Produção de Textos]]
-> #DesenhoTecnico #Outubro2026
-> >[[03 10 2026 Desenho Técnico]]
-> >[[10 10 2026 Desenho Técnico]]
-> >[[17 10 2026 Desenho Técnico]]
-> >[[24 10 2026 Desenho Técnico]]
-> >[[31 10 2026 Desenho Técnico]]
-> #MetodologiaDePesquisa #Outubro2026
-> >[[03 10 2026 Metodologia de Pesquisa]]
-> >[[10 10 2026 Metodologia de Pesquisa]]
-> >[[17 10 2026 Metodologia de Pesquisa]]
-> >[[24 10 2026 Metodologia de Pesquisa]]
-> >[[31 10 2026 Metodologia de Pesquisa]]

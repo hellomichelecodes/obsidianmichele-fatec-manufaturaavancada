@@ -35,13 +35,3 @@
 > >[[11 09 2026 Interpretação e Produção de Textos]]
 > >[[18 09 2026 Interpretação e Produção de Textos]]
 > >[[25 09 2026 Interpretação e Produção de Textos]]
-> #DesenhoTecnico #Setembro2026
-> >[[05 09 2026 Desenho Técnico]]
-> >[[12 09 2026 Desenho Técnico]]
-> >[[19 09 2026 Desenho Técnico]]
-> >[[26 09 2026 Desenho Técnico]]
-> #MetodologiaDePesquisa #Setembro2026
-> >[[05 09 2026 Metodologia de Pesquisa]]
-> >[[12 09 2026 Metodologia de Pesquisa]]
-> >[[19 09 2026 Metodologia de Pesquisa]]
-> >[[26 09 2026 Metodologia de Pesquisa]]

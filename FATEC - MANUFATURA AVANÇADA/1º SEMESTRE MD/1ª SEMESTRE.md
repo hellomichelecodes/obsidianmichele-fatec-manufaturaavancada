@@ -5,4 +5,5 @@
 [[12 2026 - DEZEMBRO]]
 
 
-Compra de Camisetas:
+[[Michele - Atividade 1 - DIP 1º SEMESTRE]]
+[[Ivan  -Atividade 1 -DIP 1º SEMESTRE]]
