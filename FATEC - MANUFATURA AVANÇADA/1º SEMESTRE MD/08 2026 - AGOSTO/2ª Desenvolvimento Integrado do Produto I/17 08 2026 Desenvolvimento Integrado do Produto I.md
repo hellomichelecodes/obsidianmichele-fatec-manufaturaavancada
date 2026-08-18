@@ -5,14 +5,4 @@ tags: #DesenvolvimentoIntegradoDoProdutoI #PrimeiroSemestre #Agosto2026
 
 ---
 
-Anotações da Aula:
-
-Conceitos Importantes:
-
-Indicações do Professor:
-
-Conteúdos Extras/ Pesquisa:
-
----
-
-Resumo:
+Desenvolvimento do Projeto de D.I.P. em sala de aula. Conferir [[Ivan  -Atividade 1 -DIP 1º SEMESTRE]]
