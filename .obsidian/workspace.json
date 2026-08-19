@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "cfb5c580b27e43c7",
+        "id": "0b9f01f4a8398cb3",
         "type": "tabs",
         "children": [
           {
-            "id": "1043221b581912fa",
+            "id": "c22a709cf6c6c681",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "FATEC - MANUFATURA AVANÇADA/1º SEMESTRE MD/08 2026 - AGOSTO/2ª Desenvolvimento Integrado do Produto I/17 08 2026 Desenvolvimento Integrado do Produto I.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "17 08 2026 Desenvolvimento Integrado do Produto I"
+              "title": "Nova aba"
             }
           }
         ]
@@ -190,10 +186,14 @@
       "webpage-html-export:Export as HTML": false
     }
   },
-  "active": "1043221b581912fa",
+  "active": "e39d38e6d7e40dbd",
   "lastOpenFiles": [
+    "FATEC - MANUFATURA AVANÇADA/HTML",
+    "FATEC - MANUFATURA AVANÇADA/1º SEMESTRE MD/IDEIAS PARA PROJETOS DIP 1 SEMESTRE/Michele - Atividade 1 - DIP 1º SEMESTRE.md",
+    "FATEC - MANUFATURA AVANÇADA/1º SEMESTRE MD/IDEIAS PARA PROJETOS DIP 1 SEMESTRE/Ivan - Atividade 1- DIP 1º SEMESTRE.md",
+    "FATEC - MANUFATURA AVANÇADA/1º SEMESTRE MD/IDEIAS PARA PROJETOS DIP 1 SEMESTRE/GUIA IDEIAS PARA PROJETOS DIP 1 SEMESTRE.md",
+    "FATEC - MANUFATURA AVANÇADA/1º SEMESTRE MD/08 2026 - AGOSTO/2ª Desenvolvimento Integrado do Produto I/17 08 2026 Desenvolvimento Integrado do Produto I.md",
     "FATEC - MANUFATURA AVANÇADA/1º SEMESTRE MD/08 2026 - AGOSTO/2ª Desenvolvimento Integrado do Produto I/10 08 2026 Desenvolvimento Integrado do Produto I.md",
-    "FATEC - MANUFATURA AVANÇADA/1º SEMESTRE MD/IDEIAS PARA PROJETOS DIP 1 SEMESTRE/Ivan  -Atividade 1 -DIP 1º SEMESTRE.md",
     "FATEC - MANUFATURA AVANÇADA/1º SEMESTRE MD/10 2026 - OUTRUBRO/3ª Lógica de Programação/27 10 2026 Lógica de Programação.md",
     "FATEC - MANUFATURA AVANÇADA/1º SEMESTRE MD/10 2026 - OUTRUBRO/3ª Lógica de Programação/20 10 2026 Lógica de Programação.md",
     "FATEC - MANUFATURA AVANÇADA/1º SEMESTRE MD/10 2026 - OUTRUBRO/10 2026 - OUTUBRO.md",
@@ -214,10 +214,6 @@
     "FATEC - MANUFATURA AVANÇADA/1º SEMESTRE MD/10 2026 - OUTRUBRO/4.2ª Tópicos de Matemática Elementar/21 10 2026 Tópicos de Matemática Elementar.md",
     "FATEC - MANUFATURA AVANÇADA/1º SEMESTRE MD/10 2026 - OUTRUBRO/4.2ª Tópicos de Matemática Elementar/14 10 2026 Tópicos de Matemática Elementar.md",
     "FATEC - MANUFATURA AVANÇADA/1º SEMESTRE MD/10 2026 - OUTRUBRO/4.2ª Tópicos de Matemática Elementar/07 10 2026 Tópicos de Matemática Elementar.md",
-    "FATEC - MANUFATURA AVANÇADA/1º SEMESTRE MD/10 2026 - OUTRUBRO/4.1ª Tecnologia Mecânica/28 10 2026 Tecnologia Mecânica.md",
-    "FATEC - MANUFATURA AVANÇADA/1º SEMESTRE MD/10 2026 - OUTRUBRO/4.1ª Tecnologia Mecânica/21 10 2026 Tecnologia Mecânica.md",
-    "FATEC - MANUFATURA AVANÇADA/1º SEMESTRE MD/10 2026 - OUTRUBRO/4.1ª Tecnologia Mecânica/14 10 2026 Tecnologia Mecânica.md",
-    "FATEC - MANUFATURA AVANÇADA/1º SEMESTRE MD/10 2026 - OUTRUBRO/4.1ª Tecnologia Mecânica/07 10 2026 Tecnologia Mecânica.md",
     "FATEC - MANUFATURA AVANÇADA/1º SEMESTRE MD/09 2026 - SETEMBRO/6.2ª Eletrônica",
     "FATEC - MANUFATURA AVANÇADA/1º SEMESTRE MD/08 2026 - AGOSTO/6.2ª Eletrônica",
     "FATEC - MANUFATURA AVANÇADA/1º SEMESTRE MD/11 2026 - NOVEMBRO/6.1ª Interpretação e Produção de Textos",
