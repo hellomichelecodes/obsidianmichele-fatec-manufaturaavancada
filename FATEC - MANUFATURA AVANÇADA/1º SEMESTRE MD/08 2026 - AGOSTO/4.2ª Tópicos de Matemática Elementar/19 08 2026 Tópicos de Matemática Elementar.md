@@ -46,10 +46,11 @@ tags: #TopicosDeMatematicaElementar #PrimeiroSemestre #Agosto2026
 			- O que é: É a grandeza que mede a proporção do número de entidades elementares (átomos, moléculas, íons, elétrons ou outras partículas) presentes em uma amostra.
 			- Unidade no SI: Mol (mol).
 			- Definição científica atual: Desde 2019, um mol contém exatamente 6, 02214076 vezes 10 elevado 23 (ou aproximadamente 602 sextilhões) entidades elementares. Este número fixo é o valor numérico da Constante de Avogadro (N sub A).
-			- **Por extenso:** _Mol_ (no plural: _mols_ ou _moles_).
-			- **Aplicações:** Cálculos estequiométricos na química, dosagem de reativos na indústria farmacêutica e análise de gases na engenharia.
-- # Conceitos Importantes
-- # Indicações do Professo
+			- Por extenso: Mol (no plural: mols ou moles).
+			- Aplicações: Cálculos estequiométricos na química, dosagem de reativos na indústria farmacêutica e análise de gases na engenharia.
+	- ## Notação científica
+		- 
+	- ## Ordem de Grandeza
 - # Conteúdos Extras/ Pesquisa:
 	A aula do professor Wellington superou todas as expectativas pela clareza e profundidade. A articulação entre teoria, exemplos e exercícios práticos garantiu um entendimento pleno e coletivo por parte da turma. É uma honra acompanhar as aulas de alguém que traz no currículo não apenas títulos acadêmicos, mas a verdadeira vocação para ensinar.
 ---
