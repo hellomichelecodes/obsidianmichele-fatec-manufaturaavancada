@@ -69,4 +69,5 @@ tags: #TopicosDeMatematicaElementar #PrimeiroSemestre #Agosto2026
 		- **9.** $50$
 		- **10.** $30$
 ---
--  Resumo: uma expressão numérica é uma sequência de operações matemáticas que deve ser resolvida seguindo uma ordem estrita para garantir o resultado correto: primeiro resolve-se o que está dentro dos parênteses, colchetes e chaves (de dentro para fora) e, quanto às operações, calcula-se na sequência as potências e raízes, depois multiplicações e divisões (na ordem em que aparecerem, da esquerda para a direita) e, por fim, as adições e subtrações.
+- # Resumo
+	- Uma expressão numérica é uma sequência de operações matemáticas que deve ser resolvida seguindo uma ordem estrita para garantir o resultado correto: primeiro resolve-se o que está dentro dos parênteses, colchetes e chaves (de dentro para fora) e, quanto às operações, calcula-se na sequência as potências e raízes, depois multiplicações e divisões (na ordem em que aparecerem, da esquerda para a direita) e, por fim, as adições e subtrações.

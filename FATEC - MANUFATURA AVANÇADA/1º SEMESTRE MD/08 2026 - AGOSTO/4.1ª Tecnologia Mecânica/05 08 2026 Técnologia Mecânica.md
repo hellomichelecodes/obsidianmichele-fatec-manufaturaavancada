@@ -21,7 +21,6 @@ tags: #TecnologiaMecanica #PrimeiroSemestre #Agosto2026
 		    - _Exemplos:_ Parafusos, porcas, arruelas, chavetas, pinos e presilhas.
 		- **Fixação Permanente:** Mantém as peças unidas de forma definitiva; para separá-las, é necessário inutilizar ou romper o elemento.
 		    - _Exemplos:_ Rebites, soldas e adesivos estruturais.
-
 ---
-
-Resumo: A aula abordou a estrutura fundamental da Tecnologia Mecânica, definindo máquinas como sistemas integrados de peças padronizadas. Esses sistemas transmitem energia para realizar um trabalho. Foram apresentadas as cinco grandes classes funcionais desses componentes: fixação, transmissão, apoio, vedação e elementos elásticos, com destaque para os elementos de fixação. Os elementos de fixação servem para agrupas as peças: parafusos, porcas, rebites e soldas, divididas entre desmontáveis e permanentes.
+- # Resumo
+	A aula abordou a estrutura fundamental da Tecnologia Mecânica, definindo máquinas como sistemas integrados de peças padronizadas. Esses sistemas transmitem energia para realizar um trabalho. Foram apresentadas as cinco grandes classes funcionais desses componentes: fixação, transmissão, apoio, vedação e elementos elásticos, com destaque para os elementos de fixação. Os elementos de fixação servem para agrupas as peças: parafusos, porcas, rebites e soldas, divididas entre desmontáveis e permanentes.

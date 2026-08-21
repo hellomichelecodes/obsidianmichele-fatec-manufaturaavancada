@@ -66,10 +66,8 @@ tags: #DesenvolvimentoIntegradoDoProdutoI #PrimeiroSemestre #Agosto2026
 		- **4. Performance e Confiabilidade**
 			- **Índices (Indexes):** Estruturas internas que aceleram a busca de dados em tabelas grandes (similar ao índice remissivo de um livro).
 			- **Transações e Propriedades ACID:** Mecanismos que garantem que uma série de operações SQL ocorra com total sucesso ou seja completamente cancelada (`ROLLBACK`), mantendo o banco seguro contra falhas.
-
 - # Conteúdos Extras/ Pesquisa:
 	- Vídeo aula: https://www.youtube.com/watch?v=Ofktsne-utM
-
 ---
-
-Resumo: O MySQL é um sistema de gerenciamento de banco de dados relacional lançado em 1995 por desenvolvedores nórdicos. Ele organiza dados em tabelas estruturadas usando a linguagem SQL. Destaca-se pela rapidez, simplicidade e gratuidade, tornando-se a espinha dorsal de boa parte da Web moderna (usado por gigantes como Facebook, Twitter/X e Netflix), sendo mantido hoje pela Oracle.
+- # Resumo
+	O MySQL é um sistema de gerenciamento de banco de dados relacional lançado em 1995 por desenvolvedores nórdicos. Ele organiza dados em tabelas estruturadas usando a linguagem SQL. Destaca-se pela rapidez, simplicidade e gratuidade, tornando-se a espinha dorsal de boa parte da Web moderna (usado por gigantes como Facebook, Twitter/X e Netflix), sendo mantido hoje pela Oracle.

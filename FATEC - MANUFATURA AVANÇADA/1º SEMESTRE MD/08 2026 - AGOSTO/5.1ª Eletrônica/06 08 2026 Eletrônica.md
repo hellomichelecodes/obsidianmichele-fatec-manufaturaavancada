@@ -17,7 +17,6 @@ tags: #Eletronica #PrimeiroSemestre #Agosto2026
 	- Um Ponto de Atenção: Sentido Real vs. Sentido Convencional: na prática da eletrônica, você verá duas formas de interpretar esse movimento:
 		- Sentido Real: Os elétrons fluem do polo negativo para o positivo (o movimento físico real explicado pelo professor).
 		- Sentido Convencional: Utilizado na análise de circuitos e esquemas teóricos, onde se considera que a corrente flui do positivo para o negativo (como se fossem cargas positivas se movendo).
-
 ---
-
-Resumo: A aula inicial de Eletrônica explicou o conceito fundamental de corrente elétrica através da interação entre cargas negativas e positivas, destacando que o elétron (de carga negativa) sofre uma força de repulsão em relação às cargas de mesmo sinal ($-q$) e uma força de atração em direção às cargas positivas ($+q$). Essa movimentação ordenada de elétrons acionada pela atração e repulsão constitui a corrente elétrica, existindo duas formas de interpretação: o sentido real (onde os elétrons fluem do polo negativo para o positivo) e o sentido convencional (utilizado na análise teórica de circuitos, considerando o fluxo hipotético do polo positivo para o negativo).
+- # Resumo
+	- A aula inicial de Eletrônica explicou o conceito fundamental de corrente elétrica através da interação entre cargas negativas e positivas, destacando que o elétron (de carga negativa) sofre uma força de repulsão em relação às cargas de mesmo sinal ($-q$) e uma força de atração em direção às cargas positivas ($+q$). Essa movimentação ordenada de elétrons acionada pela atração e repulsão constitui a corrente elétrica, existindo duas formas de interpretação: o sentido real (onde os elétrons fluem do polo negativo para o positivo) e o sentido convencional (utilizado na análise teórica de circuitos, considerando o fluxo hipotético do polo positivo para o negativo).
