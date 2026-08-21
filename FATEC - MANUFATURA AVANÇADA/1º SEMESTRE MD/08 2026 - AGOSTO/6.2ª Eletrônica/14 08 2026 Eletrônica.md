@@ -5,7 +5,6 @@ tags: #Eletronica #PrimeiroSemestre #Agosto2026
 
 ---
 - # Lei de Ohm
-
 	A Lei de Ohm é um dos princípios fundamentais da eletricidade. Ela estabelece a relação entre **tensão elétrica (V)**, **corrente elétrica (I)** e **resistência elétrica (R)** em um circuito. É essencial para compreender e dimensionar circuitos elétricos e eletrônicos.
 	- ## 1. Criador
 		  A Lei de Ohm foi formulada pelo físico e matemático alemão **Georg Simon Ohm (1789–1854)**. Ohm dedicou parte de seus estudos à relação entre a eletricidade aplicada a um condutor e a corrente que circulava por ele. Seus experimentos mostraram que, para determinados materiais e sob condições constantes, a corrente elétrica varia proporcionalmente à tensão aplicada.
@@ -69,4 +68,5 @@ tags: #Eletronica #PrimeiroSemestre #Agosto2026
 	A Lei de Ohm descreve diretamente **condutores ôhmicos**, nos quais a relação entre tensão e corrente permanece proporcional sob determinadas condições. Nem todo componente elétrico apresenta esse comportamento em todas as condições. **Diodos, LEDs, transistores e lâmpadas incandescentes**, por exemplo, podem apresentar relações tensão-corrente não lineares.
 	Isso é importante porque a Lei de Ohm é uma excelente ferramenta para aprender e analisar circuitos, mas não significa que qualquer componente possa ser tratado simplesmente como um resistor de resistência constante.
 ---
-Resumo: A **Lei de Ohm**, criada pelo físico alemão **Georg Simon Ohm** e publicada em **1827**, estabelece a relação entre **tensão elétrica, corrente elétrica e resistência** em um circuito. Sua fórmula principal é **V = R × I**, sendo V a tensão medida em volts (V), R a resistência medida em ohms (Ω) e I a corrente medida em amperes (A). A lei foi desenvolvida a partir dos estudos de Ohm sobre o comportamento da corrente elétrica nos condutores e é utilizada para calcular grandezas elétricas e analisar circuitos. Ela possui diversas aplicações na **eletrônica, instalações elétricas e equipamentos**, como no dimensionamento de resistores e no cálculo de corrente e potência. Por exemplo, um resistor de 10 Ω ligado a uma fonte de 20 V apresenta uma corrente de 2 A.
+- # Resumo
+	A Lei de Ohm, criada pelo físico alemão **Georg Simon Ohm** e publicada em **1827**, estabelece a relação entre tensão elétrica, corrente elétrica e resistência em um circuito. Sua fórmula principal é V = R × I, sendo V a tensão medida em volts (V), R a resistência medida em ohms (Ω) e I a corrente medida em amperes (A). A lei foi desenvolvida a partir dos estudos de Ohm sobre o comportamento da corrente elétrica nos condutores e é utilizada para calcular grandezas elétricas e analisar circuitos. Ela possui diversas aplicações na eletrônica, instalações elétricas e equipamentos, como no dimensionamento de resistores e no cálculo de corrente e potência. Por exemplo, um resistor de 10 Ω ligado a uma fonte de 20 V apresenta uma corrente de 2 A.

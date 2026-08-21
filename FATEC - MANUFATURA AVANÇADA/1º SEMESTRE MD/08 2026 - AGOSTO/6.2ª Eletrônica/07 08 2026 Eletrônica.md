@@ -25,7 +25,6 @@ tags: #Eletronica #PrimeiroSemestre #Agosto2026
 		- Programação de Software: Construção de desvios condicionais, controle de fluxo e validação de regras de negócio;
 		- Bancos de Dados: Filtragem de registros em consultas SQL usando condições combinadas;
 		- Sistemas de Controle: Automação industrial, robótica e sistemas de segurança acionados por combinações de sensores;
-
 - # Portar lógicas
 	- Portas lógicas são os componentes físicos básicos (construídos a partir de transistores) que implementam as operações da Álgebra Booleana em circuitos eletrônicos. Elas recebem sinais elétricos de entrada (alta tensão para $1$, baixa tensão para $0$) e produzem uma única saída lógica.
 	- Os principais conjuntos estudos serão:
@@ -41,18 +40,15 @@ tags: #Eletronica #PrimeiroSemestre #Agosto2026
 		  ![[Pasted image 20260808105830.png]]
 		- Porta XOR (OU Exclusivo), analisa a diferença entre as entradas. Se os valores das entradas forem diferentes entre si, a saída será 1. Se os valores forem iguais (ambos 0 ou ambos 1), a saída será 0:
 		  ![[Pasted image 20260808105955.png]]
-
 - # Indicações do Professor:
 	- Atenção aos exercícios do TEAMS;
 	- Comprar calculadora cientifica;
 	- Decorar o Pai Nosso;
-
 - # Conteúdos Extras/ Pesquisa:
 	- Álgebra Booleana
 		- Livro: Elementos de Eletrônica Digital, de Ivan V. Idoeta e Antonio V. Capuano;
 		- Vídeo: Sistemas Digitais, da UNIVESP (Universidade Virtual do Estado de SP). Aulas completas cobrindo Álgebra Booleana, Teoremas de De Morgan, Tabela Verdade e Mapas de Veitch-Karnaugh.
 		- Vídeo: Sistemas Digitais, do Curso em Vídeo (Prof. Gustavo Guanabara. Explicações visuais e bem dinâmicas focadas em lógica binária, portas lógicas e fundamentos para programação.
-
 ---
-
-Resumo: A aula abordou os fundamentos da Álgebra Booleana e das portas lógicas (AND, OR, NOT, NAND, NOR e XOR), detalhando como o filósofo e matemático George Boole criou essa estrutura em 1854 para trabalhar com estados binários (0 e 1) que formam a base dos circuitos digitais e da computação moderna. Durante a explicação, foram apresentados os símbolos gráficos padronizados, as expressões algébricas e as tabelas verdade completas de cada porta, destacando suas regras de funcionamento, desde o comportamento básico das portas fundamentais até o papel de inversão das portas derivadas (NAND e NOR) e a identificação de diferenças da XOR, além de exemplificar suas aplicações práticas em hardware, programação e sistemas digitais.
+- # Resumo
+	A aula abordou os fundamentos da Álgebra Booleana e das portas lógicas (AND, OR, NOT, NAND, NOR e XOR), detalhando como o filósofo e matemático George Boole criou essa estrutura em 1854 para trabalhar com estados binários (0 e 1) que formam a base dos circuitos digitais e da computação moderna. Durante a explicação, foram apresentados os símbolos gráficos padronizados, as expressões algébricas e as tabelas verdade completas de cada porta, destacando suas regras de funcionamento, desde o comportamento básico das portas fundamentais até o papel de inversão das portas derivadas (NAND e NOR) e a identificação de diferenças da XOR, além de exemplificar suas aplicações práticas em hardware, programação e sistemas digitais.

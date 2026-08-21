@@ -14,10 +14,10 @@ tags: #TecnologiaMecanica #PrimeiroSemestre #Agosto2026
 	 Reintegro que os conceitos de Mecânica são fundamentais e imprescindíveis para o projeto DIP, e a dinâmica atual poderá comprometer severamente a base técnica necessária para a nossa formação profissional. 
 - # Conteúdos Extras/ Pesquisa:
 	- ## Conceitos Fundamentais e Variáveis de Medição
-		- Diâmetro externo (d): Medida no topo da crista da rosca, feita com paquímetro. É a medida nominal que dá nome à rosca (ex.: $10\,mm$ ou $1/2''$).
-		- Passo (p): Em roscas métricas, é a distância física direta entre dois filetes consecutivos, expressa em milímetros ($mm$).
-		- Fios por Polegada (TPI): Em roscas do sistema inglês/americano, é o número de filetes contados dentro do intervalo exato de $1$ polegada ($25,4\,mm$).
-		- Ângulo do Filete ($\alpha$): Abertura do ângulo formado pela ponta do dente do filete ($60^\circ$ para métrica e americana; $55^\circ$ para Whitworth).
+		- Diâmetro externo (d): Medida no topo da crista da rosca, feita com paquímetro. É a medida nominal que dá nome à rosca (ex.: 10mm ou 1/2'').
+		- Passo (p): Em roscas métricas, é a distância física direta entre dois filetes consecutivos, expressa em milímetros (mm).
+		- Fios por Polegada (TPI): Em roscas do sistema inglês/americano, é o número de filetes contados dentro do intervalo exato de $1$ polegada (25,4mm).
+		- Ângulo do Filete ($\alpha$): Abertura do ângulo formado pela ponta do dente do filete (60º para métrica e americana; 55º para Whitworth).
 	- ## Padrões de Roscas
 		#### 1. Rosca Métrica ISO (Sistema Internacional)
 		- Unidade de medida: Milímetros (mm)
