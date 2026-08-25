@@ -49,9 +49,56 @@ tags: #TopicosDeMatematicaElementar #PrimeiroSemestre #Agosto2026
 			- Por extenso: Mol (no plural: mols ou moles).
 			- Aplicações: Cálculos estequiométricos na química, dosagem de reativos na indústria farmacêutica e análise de gases na engenharia.
 	- ## Notação científica
-		- 
+		- A notação científica é uma forma simplificada e padronizada de escrever números extremamente grandes ou extremamente pequenos usando potências de base 10.
+		1. Estrutura Geral
+			Qualquer número em notação científica é escrito no seguinte formato:
+			- N vezes 10 elevado a n (sendo N um número real que deve ser maior ou igual a 1 e menor que 10, 10 a base decimal fixa e n um número inteiro (positivo, negativo ou zero) que indica quantas casas decimais a vírgula foi deslocada).
+		2. Regra Prática para Mudar a Vírgula**
+			- Números Grandes (n) é positivo): Desloca-se a vírgula para a **esquerda** até restar apenas um algarismo significativo antes dela. O expoente $n$ será o número de casas andadas.
+			- Números Pequenos (n é negativo): Desloca-se a vírgula para a **direita** até encontrar o primeiro algarismo diferente de zero. O expoente n será o número de casas andadas (com sinal negativo).
+		3. Exemplos reais na SI
+			- Constante de Avogadro (Mol):
+			    - Número comum: 602.214.076.000.000.000.000.000
+			    - Notação científica: 6,02214076 vezes 10 elevado a 23
+			- Constante de Planck (h):
+			    - Número comum: 0,000000000000000000000000000000000662607015
+			    - Notação científica: 6,62607015  vezes 10 elevado a -34
+			- Carga Elementar (e):
+			    - Número comum: 0,0000000000000000001602176634
+			    - Notação científica: 1,602176634 vezes 10 elevado a -19
+			- Velocidade da Luz (c):
+			    - Número comum: 299.792.458 metros por segundo
+			    - Notação científica: 2,99792458 vezes 10 elevado a 8
 	- ## Ordem de Grandeza
+		- A **ordem de grandeza** de um número é a **potência de 10 mais próxima** desse valor. Ela serve para estimar ou comparar tamanhos e quantidades sem precisar de uma precisão exata, focando apenas na escala do número.
+		1. Como Determinar a Ordem de Grandeza
+			Para encontrar a ordem de grandeza, siga dois passos:
+			- Escreva o número em notação científica: N vezes 10 elevado a n (com 1 menos ou igual a N que é menor que 10
+			- Compare o coeficiente N com o valor de corte raiz de 10 aprox 3,16:
+			    - Se N é menor que 3,16: A ordem de grandeza é 10 elevado a n
+			    - Se N maior ou igual a 3,16: A ordem de grandeza é 10 elevado a n+1 (soma-se $1$ ao expoente, pois o número está mais próximo da próxima potência de 10).
+		2. Por que usar raiz de 10 aprox 3,16 como ponto de corte?
+			Na escala logarítmica (base 10), o meio do caminho entre 10 elevado a 0 (1) e 10 elevado a 1 (10) não é o 5, mas sim a raiz quadrada de 10: 
+				raiz de 10 é igual a 10 elevado a 0,5 aprox. 3,162
+			- Qualquer valor abaixo de $3{,}16$ está geometricamente mais perto de $1$ (10 elevado a 0).
+			- Qualquer valor igual ou acima de 3,16 está mais perto de 10 (10 elevado a 1).
+		3. Exemplos Práticos
+			- Massa de um elefante: 5.200 kg
+			    - Notação científica: 5,2 vezes 10 elevado a 3 kg
+			    -  Como 5,2 é maior ou igual a 3,16, somamos 1 ao expoente (3 + 1 = 4).
+			    - Ordem de grandeza: 10 elevado a 4 kg (ou seja, na escala de dezenas de toneladas).
+			- Velocidade da luz (c): 2,9979 vezes10 elevado a 8  metros por segundo
+			    1. Notação científica: 2,9979 vezes 10 elevado a 8 metros por segundo
+			    2. Como 2,9979 é menor que 3,16, mantemos o expoente (8).
+			    3. Ordem de grandeza: 10 elevado a 8 metros por segundo (centenas de milhões de metros por segundo).
+			- Constante de Avogadro: 6,022 vezes 10 elevado a 23
+			    1. Como 6,022 é menor que 3,16, somamos 1 ao expoente (23 + 1 = 24).
+			    2. Ordem de grandeza: 10 elevado a 24 entidades.
+			- Carga do elétron (e): 1,602 vezes 10 elevado a -19 C
+			    1. Como 1,602 menor que 3,16, mantemos o expoente (-19)
+			    2. Ordem de grandeza: 10 elevado a -19 C
 - # Conteúdos Extras/ Pesquisa:
 	A aula do professor Wellington superou todas as expectativas pela clareza e profundidade. A articulação entre teoria, exemplos e exercícios práticos garantiu um entendimento pleno e coletivo por parte da turma. É uma honra acompanhar as aulas de alguém que traz no currículo não apenas títulos acadêmicos, mas a verdadeira vocação para ensinar.
 ---
-Resumo:
+- # Resumo
+	A aula abordou o Sistema Internacional de Unidades (SI) como padrão global para medição, detalhando suas sete grandezas fundamentais: comprimento (m), massa (kg), tempo (s), corrente elétrica (A), temperatura termodinâmica (K), intensidade luminosa (cd) e quantidade de matéria (mol). Suas definições modernas baseadas em constantes físicas e o uso da notação científica (N  vezes 10 elevado a n) para expressar valores extremos, além de demonstrar o cálculo da ordem de grandeza de um número utilizando o ponto de corte geométrico raiz de 10 aprox 3,16.
