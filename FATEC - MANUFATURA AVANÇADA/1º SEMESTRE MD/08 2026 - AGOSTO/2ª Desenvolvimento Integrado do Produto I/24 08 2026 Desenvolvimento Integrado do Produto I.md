@@ -5,14 +5,4 @@ tags: #DesenvolvimentoIntegradoDoProdutoI #PrimeiroSemestre #Agosto2026
 
 ---
 
-Anotações da Aula:
-
-Conceitos Importantes:
-
-Indicações do Professor:
-
-Conteúdos Extras/ Pesquisa:
-
----
-
-Resumo:
+# Continuação do planejamento para entrega de D.I.P. 1 ao final do semestre.

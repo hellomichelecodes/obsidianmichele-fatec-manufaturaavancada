@@ -5,14 +5,4 @@ tags: #TecnologiaMecanica #PrimeiroSemestre #Agosto2026
 
 ---
 
-Anotações da Aula:
-
-Conceitos Importantes:
-
-Indicações do Professor:
-
-Conteúdos Extras/ Pesquisa:
-
----
-
-Resumo:
+# O docente precisou se ausentar por questões médicas. A aula será reagendada para outra data.

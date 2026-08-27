@@ -5,14 +5,4 @@ tags: #TopicosDeMatematicaElementar #PrimeiroSemestre #Agosto2026
 
 ---
 
-Anotações da Aula:
-
-Conceitos Importantes:
-
-Indicações do Professor:
-
-Conteúdos Extras/ Pesquisa:
-
----
-
-Resumo:
+# Atividade para entregar em 02/09/2026 - revisão das matérias
